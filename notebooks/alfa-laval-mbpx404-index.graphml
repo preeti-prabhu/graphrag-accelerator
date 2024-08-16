@@ -1,0 +1,1686 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;ALFA LAVAL TECHNOLOGIES AB&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Alfa Laval Technologies AB is a company based in Tumba, Sweden, responsible for publishing the installation and operating instructions for the Alfa Laval Separation System."</data>
+      <data key="d2">eec1ded7207b160ca901012fb8cd252d</data>
+    </node>
+    <node id="&quot;ALFA LAVAL CORPORATE AB&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Alfa Laval Corporate AB is the corporate entity that holds the copyrights and intellectual property rights for the document related to the Alfa Laval Separation System."</data>
+      <data key="d2">eec1ded7207b160ca901012fb8cd252d</data>
+    </node>
+    <node id="&quot;MBPX404&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">MBPX404 is a specific model or component within the Alfa Laval Separation System. It is significant enough to have its own section in the installation and operating instructions, indicating that it plays a crucial role in the system's overall function. The references to MBPX404 in the context of system descriptions suggest that it is an integral part of the Alfa Laval Separation System, which is used for separating liquids and solids in various industrial processes.</data>
+      <data key="d2">b4bacb7a36f8309ada13992cc678e68d,eec1ded7207b160ca901012fb8cd252d</data>
+    </node>
+    <node id="&quot;TUMBA, SWEDEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Tumba, Sweden is the location of Alfa Laval Technologies AB, where the installation and operating instructions for the Alfa Laval Separation System were published."</data>
+      <data key="d2">eec1ded7207b160ca901012fb8cd252d</data>
+    </node>
+    <node id="&quot;ALFA LAVAL SEPARATION SYSTEM&quot;">
+      <data key="d0" />
+      <data key="d1">The Alfa Laval Separation System is a significant and relevant system within the field, as indicated by its mention in a book that underscores its importance. It is a specific system offered by Alfa Laval, which may include components such as the MBPX404. Designed primarily for clarification purposes in biotech applications, the Alfa Laval Separation System is equipped with a product and utility line, a valve arrangement, and automation features that include a control panel. This comprehensive setup highlights the system's advanced capabilities in processing and separation technology.</data>
+      <data key="d2">2c35d9339caaf49136eba2b75d95ca1c,4970ed525066d2e8e4e64d781d6df95d,b4bacb7a36f8309ada13992cc678e68d,eec1ded7207b160ca901012fb8cd252d</data>
+    </node>
+    <node id="&quot;MBPX404 SYSTEM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">The MBPX404 System is a specific model within the Alfa Laval Separation System range. It is characterized as a high-speed separator that is equipped with various inlets and outlets to accommodate different types of liquids. The system comes with a detailed description and operating instructions provided by Alfa Laval, ensuring that users can understand and utilize the MBPX404 System effectively for their separation needs.</data>
+      <data key="d2">2c35d9339caaf49136eba2b75d95ca1c,4970ed525066d2e8e4e64d781d6df95d,5d956a4cff03b0f805a81ce0150d8ca3</data>
+    </node>
+    <node id="&quot;ALFA LAVAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Alfa Laval is a company that specializes in manufacturing separation systems and provides comprehensive support for their equipment. They are responsible for supplying equipment along with necessary documentation to ensure safe operation of the separator system. Alfa Laval offers services and spare parts, with representation in major ports worldwide, to facilitate maintenance and reduce system downtime. They recommend keeping a stock of spare parts for preventive maintenance purposes.
+
+The organization's representatives may be present during the unpacking and inspection of equipment to provide instructions for repair or replacement of damaged or missing items and to avoid the risk of damage. Alfa Laval also assists in the proper planning of installation and servicing of machinery. They provide layout drawings, lifting drawings, and installation manuals for their equipment, ensuring that clients have all the necessary information for correct setup and use.
+
+Alfa Laval's separation systems include various control and management features, often incorporating Siemens PLC automation, as described in their manuals. The company's logo can be found on the top header of the control system's process screen, indicating that they are the manufacturer or provider of the system.
+
+For cleaning purposes, Alfa Laval recommends using specific Clean-in-Place (CIP) liquids and provides guidelines for the use of its products. They are also the point of contact for advice if the cause of a fault in a safety stop remains unclear after all parts have been checked.
+
+Additionally, Alfa Laval supplies tools that are sparking and advises that these should only be used in non-hazardous areas. Overall, Alfa Laval is recognized as a key provider of separation systems and related services, ensuring their clients have the necessary resources and knowledge to operate and maintain their equipment effectively.</data>
+      <data key="d2">0db8ff006bf3f3a20480bb3299943441,280b4d4a3690806733edff33d3dd0938,443ba419e3d87023c2f7d31b3edf0f64,5d3b9d29580d17b2697e3ec50507936d,5d956a4cff03b0f805a81ce0150d8ca3,6b4e95cf3d0f6e040d8b7936fd004557,6ecf94acf64bae1bbb204527c65874dc,72c56f36f8877ba74d7a132a5a01f619,7f8597c9687fb8c39f1df99055763b63,80d5ef5ff75eb08c10ab33897125d948,98c785ac26ae227547dc348f5acb4809,9d42ca5b26ee287d4aa3c467961035d8,a05c5707f08c3e63aa8b5935e16841ab,ab64e68d1db6b2056bf9fe726ec71abd,b4bacb7a36f8309ada13992cc678e68d,ba449d3f57dac3c8c09bbf9b7118516d,e5be782c0dd646b3f9d63c40517fd3f8,f87326af03fd283c51d00167f0d5f57a</data>
+    </node>
+    <node id="&quot;SIEMENS PLC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Siemens PLC refers to the automation technology used in the Alfa Laval separation system."</data>
+      <data key="d2">ab64e68d1db6b2056bf9fe726ec71abd</data>
+    </node>
+    <node id="&quot;ALFA LAVAL SEPARATOR SYSTEM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Alfa Laval Separator System is a specific system or product mentioned in the manual, which includes various operating instructions and descriptions."</data>
+      <data key="d2">ab64e68d1db6b2056bf9fe726ec71abd</data>
+    </node>
+    <node id="&quot;CONTROL PROGRAM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">The Control Program is a sophisticated piece of software designed to manage the separation system. It is known for delivering performance, flexibility, and safety through its various features and operating modes. Additionally, the Control Program encompasses automated sequences and complex functions that are managed within the operator interface of the system, ensuring efficient and reliable control over the processes it governs.</data>
+      <data key="d2">346d2b675192cac14c3d1cabd2f2038e,f87326af03fd283c51d00167f0d5f57a</data>
+    </node>
+    <node id="&quot;OPERATOR INTERFACE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">The Operator Interface is a component of a control system that serves as the user interface section where operators can interact with the system. It allows operators to manage and interact with various sequences and functions, as described in the text. This interface is crucial for the effective operation and monitoring of the system's processes.</data>
+      <data key="d2">6ecf94acf64bae1bbb204527c65874dc,f87326af03fd283c51d00167f0d5f57a</data>
+    </node>
+    <node id="&quot;SDS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">The SDS, or Safety Data Sheet, is a comprehensive document that serves as technical documentation for a specific machine. It contains detailed information about the machine's speed control and includes specific instructions or procedures related to the separator's discharge subsequence. The SDS also encompasses information on automatic discharges, which may be part of a safety data sheet or a system description section. Furthermore, it provides guidance on the DISCHARGE operation during STANDBY mode, detailing the subsequence section that contains these instructions. In addition to operational procedures, the SDS features the Alarm Activation Diagram and offers explanations for system functions and alarms, ensuring users are well-informed about the system's parameters, timers, and alarm interlocks. This document is essential for understanding the intricacies of the machine's operation and safety features.</data>
+      <data key="d2">0dd41e140364139ed1f66deeabdf50c6,256f508c945cb5928674df1c0c3a0049,5de70f09dcbc6ed3581a186cb4b8e45f,87f09f4a6b5dcc0bf841590ce15cce50,ecbcb08784e2de84272a454474e8dd65,f87326af03fd283c51d00167f0d5f57a</data>
+    </node>
+    <node id="&quot;SIEMENS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Siemens is mentioned as a source for general information about the control system, implying it is the manufacturer or a related entity."</data>
+      <data key="d2">f87326af03fd283c51d00167f0d5f57a</data>
+    </node>
+    <node id="&quot;CONTROL SYSTEM&quot;">
+      <data key="d0" />
+      <data key="d1">The Control System is an integral part of a technical infrastructure, responsible for a wide range of functions related to the operation and safety of machinery and processes. It includes an operator interface, control, and supervision functions, and is essential for managing the operational modes of the system. The Control System is equipped with components that work in unison to ensure smooth functioning, and it is designed to handle faults and alarms by triggering necessary actions, such as entering STANDBY mode, to maintain safety and efficiency.
+
+In addition to managing operations, the Control System is tasked with accepting commands, displaying system information, and allowing for the definition or alteration of users and passwords. It provides access to alarm lists and history, stops runtime applications, and performs system administration tasks. Within the context of a machine, the Control System manages the speed of the bowl, supervises the separator and auxiliary equipment, and controls the discharge logic.
+
+The Control System is also mentioned in technical documents that describe various trends and control functions, such as those related to feed flow rate. It is the overarching mechanism responsible for managing the parameters and I/O status within an organization's technical setup. Specifically, within a separator, the Control System manages operations and alarms to ensure the machine's safety and efficiency. Overall, the Control System is a critical component that ensures the proper functioning and management of technical systems and machinery.</data>
+      <data key="d2">122b3226e8d1bed0b3226f9dc04a2b57,12db7bb38a95d1d51e716d11e1ab2f24,256f508c945cb5928674df1c0c3a0049,2abbff1658722ea82279c24df5271f34,6ecf94acf64bae1bbb204527c65874dc,71bfe9200595eaf7299b94be14dcbe81,72c56f36f8877ba74d7a132a5a01f619,9e84a2c852a1e3d6cd66dc0b8c0ba470,a559f7a41163bf3068b00c0518de096e,ecbcb08784e2de84272a454474e8dd65,f81dd94fde1b5fcdb2103928a6e9a735,f87326af03fd283c51d00167f0d5f57a</data>
+    </node>
+    <node id="&quot;SAFETY INSTRUCTIONS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">80d5ef5ff75eb08c10ab33897125d948,f87326af03fd283c51d00167f0d5f57a</data>
+    </node>
+    <node id="&quot;OPERATORS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Operators are individuals who must read and understand safety instructions before working on the system or putting it into service."</data>
+      <data key="d2">80d5ef5ff75eb08c10ab33897125d948</data>
+    </node>
+    <node id="&quot;GENERAL SAFETY REGULATIONS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"General Safety Regulations refer to the set of rules and precautions related to electrical risk, installation, and maintenance of electrical equipment."</data>
+      <data key="d2">4072094116e0853f635f61ce5c46d220</data>
+    </node>
+    <node id="&quot;AUTHORIZED PERSONNEL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Authorized Personnel" refers to individuals who are officially recognized and permitted to conduct both electrical and mechanical installation work, along with other related tasks. These personnel are presumably trained and certified, ensuring they have the necessary qualifications to perform their duties safely and effectively.</data>
+      <data key="d2">4072094116e0853f635f61ce5c46d220,9d42ca5b26ee287d4aa3c467961035d8</data>
+    </node>
+    <node id="&quot;LOCAL REGULATIONS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Local Regulations refer to the legal requirements and guidelines that govern electrical installation, grounding, and safety within a specific geographical area."</data>
+      <data key="d2">4072094116e0853f635f61ce5c46d220</data>
+    </node>
+    <node id="&quot;PREVENTIVE MAINTENANCE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e5be782c0dd646b3f9d63c40517fd3f8</data>
+    </node>
+    <node id="&quot;REPAIRS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e5be782c0dd646b3f9d63c40517fd3f8</data>
+    </node>
+    <node id="&quot;SAFETY EQUIPMENT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e5be782c0dd646b3f9d63c40517fd3f8</data>
+    </node>
+    <node id="&quot;SAFETY SHOES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Safety Shoes are mentioned as part of the protective equipment that must be worn when operating the machine, but it is not a geographical entity and may be incorrectly categorized."</data>
+      <data key="d2">72c56f36f8877ba74d7a132a5a01f619</data>
+    </node>
+    <node id="&quot;SAFETY GLASSES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Safety Glasses are mentioned as part of the protective equipment that must be worn when operating the machine, but it is not a geographical entity and may be incorrectly categorized."</data>
+      <data key="d2">72c56f36f8877ba74d7a132a5a01f619</data>
+    </node>
+    <node id="&quot;EAR PROTECTORS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ear Protectors are mentioned as part of the protective equipment that must be worn when operating the machine, but it is not a geographical entity and may be incorrectly categorized."</data>
+      <data key="d2">72c56f36f8877ba74d7a132a5a01f619</data>
+    </node>
+    <node id="&quot;SAFETY STOP&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">A Safety Stop is an event that occurs when a fault is detected in a separator, causing the machine to halt. This procedure mandates that the cause of the fault must be identified and remedied before the separator can be restarted. It is a critical safety protocol designed to ensure that the system is functioning correctly and safely before resuming operation.</data>
+      <data key="d2">72c56f36f8877ba74d7a132a5a01f619,a05c5707f08c3e63aa8b5935e16841ab</data>
+    </node>
+    <node id="&quot;VIBRATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Vibration" refers to a critical event characterized by the separator starting to vibrate excessively during its operation. This excessive vibration necessitates an immediate shutdown of the system and the prompt evacuation of the vicinity to ensure safety.</data>
+      <data key="d2">72c56f36f8877ba74d7a132a5a01f619,a05c5707f08c3e63aa8b5935e16841ab</data>
+    </node>
+    <node id="&quot;HOT SURFACE / HIGH TEMPERATURE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Hot Surface / High Temperature is a safety warning about the risk of grave burns from equipment parts that come into contact with hot process liquid."</data>
+      <data key="d2">a05c5707f08c3e63aa8b5935e16841ab</data>
+    </node>
+    <node id="&quot;TRANSPORTATION AND LIFTING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Transportation and Lifting refers to the procedures for lifting and installation of the system and separator, with specific instructions provided in manuals."</data>
+      <data key="d2">a05c5707f08c3e63aa8b5935e16841ab</data>
+    </node>
+    <node id="&quot;THE SEPARATOR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Separator refers to a piece of equipment that requires specific handling instructions, including sterilization, lifting, and installation as per its 'Installation manual'."</data>
+      <data key="d2">684a27e7cbfa5a34a18b52abb9c2310a</data>
+    </node>
+    <node id="&quot;CERTIFIED PERSONNEL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Certified Personnel are individuals who are certified to operate forklifts and/or cranes and are responsible for carrying out lifting operations."</data>
+      <data key="d2">684a27e7cbfa5a34a18b52abb9c2310a</data>
+    </node>
+    <node id="&quot;TOOLS SUPPLIED BY ALFA LAVAL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">98c785ac26ae227547dc348f5acb4809</data>
+    </node>
+    <node id="&quot;HAZARDOUS AREA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">98c785ac26ae227547dc348f5acb4809</data>
+    </node>
+    <node id="&quot;EX-ZONE SAFETY RULES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Ex-Zone Safety Rules refer to the safety regulations that must be followed when working with equipment in hazardous areas, including switching off power and securing against accidental activation."</data>
+      <data key="d2">b4c77d7015bb6bbb077e8fd932dce31d</data>
+    </node>
+    <node id="&quot;MOTOR ROTATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Motor Rotation is a critical aspect of equipment maintenance, where the correct direction of rotation is necessary to prevent disintegration hazards."</data>
+      <data key="d2">b4c77d7015bb6bbb077e8fd932dce31d</data>
+    </node>
+    <node id="&quot;GEAR/PULLEY RATIO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Gear/Pulley Ratio must be correct for the power frequency used to avoid overspeed and potential serious breakdown."</data>
+      <data key="d2">b4c77d7015bb6bbb077e8fd932dce31d</data>
+    </node>
+    <node id="&quot;VARIABLE FREQUENCY DRIVE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Variable Frequency Drive is a system that controls the frequency of the electrical power supplied to the motor, and it must not exceed the maximum allowed frequency to prevent breakdown."</data>
+      <data key="d2">b4c77d7015bb6bbb077e8fd932dce31d</data>
+    </node>
+    <node id="&quot;THREADED LOCK RING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Threaded Lock Ring is a component of the separator equipment, and its wear must not exceed safety limits to ensure proper functioning."</data>
+      <data key="d2">b4c77d7015bb6bbb077e8fd932dce31d</data>
+    </node>
+    <node id="&quot;WELDING OR HEATING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Welding or Heating of parts that rotate can seriously affect material strength and is a potential hazard during maintenance."</data>
+      <data key="d2">b4c77d7015bb6bbb077e8fd932dce31d</data>
+    </node>
+    <node id="&quot;CORROSION AND EROSION DAMAGE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Corrosion and Erosion Damage must be regularly inspected, especially if the process or cleaning liquid is corrosive or erosive."</data>
+      <data key="d2">b4c77d7015bb6bbb077e8fd932dce31d</data>
+    </node>
+    <node id="&quot;ENTRAPMENT HAZARDS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Entrapment Hazards refer to the safety risks that arise when accessing parts inside a separator or beginning dismantling work before rotating parts have completely stopped. These hazards are specifically associated with the danger of rotating parts within a separator, emphasizing the necessity for these parts to be at a complete standstill before any access or dismantling can safely occur.</data>
+      <data key="d2">4e564d183dd0db033ce938e67ed1e1dc,b4c77d7015bb6bbb077e8fd932dce31d</data>
+    </node>
+    <node id="&quot;BURN HAZARD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Burn Hazard refers to the risk of burns from lubrication oil, machine parts, and surfaces, particularly in sterilizable separators that are hot during and after sterilization."</data>
+      <data key="d2">4e564d183dd0db033ce938e67ed1e1dc</data>
+    </node>
+    <node id="&quot;CORROSION HAZARD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Corrosion Hazard involves risks related to handling cleaning liquids, lye, and acid, requiring careful handling and adherence to instructions."</data>
+      <data key="d2">4e564d183dd0db033ce938e67ed1e1dc</data>
+    </node>
+    <node id="&quot;CUT HAZARD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Cut Hazard refers to the risk of cuts from sharp edges on bowl discs and threads, necessitating the use of protective gloves and caution around valve orifice pinch points."</data>
+      <data key="d2">4e564d183dd0db033ce938e67ed1e1dc</data>
+    </node>
+    <node id="&quot;SEPARATOR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">The Separator is a critical piece of equipment used within the separation system, specifically as a component of the MBPX404 System. It is designed to rotate and separate materials, functioning as a high-speed mechanism with a solids discharge feature. The Separator is equipped with multiple inlets and outlets to process various types of liquids and includes sensors for monitoring and protection. It plays a vital role in handling service liquid components, operating liquid, and has dedicated lines for flushing liquid, cooling water, as well as outlets for cooling liquid return and drainage.
+
+For the Separator to operate safely and effectively, correct installation and maintenance are imperative. It comes with specific instructions for lifting and covering during erection to prevent contamination. Additionally, there are detailed handling and unpacking guidelines to ensure the equipment is not damaged and remains free from contaminants. Operational checks are necessary to monitor the noise level, rotation, and pressure to guarantee the Separator's performance and longevity.
+
+The manual provided with the Separator includes all the necessary instructions for unpacking, lifting, and maintenance, emphasizing the need for careful handling due to the equipment's intricate design and functionality. Overall, the Separator is a sophisticated and essential component that requires meticulous attention to detail during installation, operation, and maintenance to maintain its safety and functionality.</data>
+      <data key="d2">00ed76604bb3d5c43d5427178783690d,280b4d4a3690806733edff33d3dd0938,2c35d9339caaf49136eba2b75d95ca1c,346d2b675192cac14c3d1cabd2f2038e,443ba419e3d87023c2f7d31b3edf0f64,9b889d215da39be72dfffee3487e8d8c,a4d1da62d375c7956cd173e192672b4e,ba449d3f57dac3c8c09bbf9b7118516d</data>
+    </node>
+    <node id="&quot;VIBRATION SENSOR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A vibration sensor is a device attached to the separator to detect vibrations as part of the monitoring system."</data>
+      <data key="d2">9b889d215da39be72dfffee3487e8d8c</data>
+    </node>
+    <node id="&quot;SPEED SENSOR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A speed sensor is a device used in the separator to monitor its speed as part of the safety and control systems."</data>
+      <data key="d2">9b889d215da39be72dfffee3487e8d8c</data>
+    </node>
+    <node id="&quot;THERMISTORS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Thermistors are temperature-sensing elements used in the separator to provide motor overload protection by detecting temperature changes."</data>
+      <data key="d2">9b889d215da39be72dfffee3487e8d8c</data>
+    </node>
+    <node id="&quot;PROCESS/SERVICE LIQUID MODULE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The process/service liquid module is a component of the separator system that controls the flow of process liquid through the separator and supplies service liquid."</data>
+      <data key="d2">9b889d215da39be72dfffee3487e8d8c</data>
+    </node>
+    <node id="&quot;CONTROL PANEL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">The Control Panel is an integral part of the machinery's interface for a separator system. It serves as the central interface where the main switch is located, allowing operators to turn the system ON. Additionally, the Control Panel is used for logging into the operator panel of the separator. It is a component of the electrical and control system, which encompasses a pneumatic unit and a variable frequency drive, essential for the separator's operation.</data>
+      <data key="d2">1f186edce471037e8238d6cefededae6,5ffe8b1e0bd815aed022924d2136a714,a4d1da62d375c7956cd173e192672b4e</data>
+    </node>
+    <node id="&quot;PNEUMATIC UNIT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">The Pneumatic Unit is an integral component of the separator system and is also part of the control panel system. It plays a crucial role in distributing instrument air to pneumatic valves and is used for pressurizing purposes. It is essential to regularly check the Pneumatic Unit for sufficient air pressure, as indicated in the Connection list, to ensure the proper functioning of the machinery it is associated with.</data>
+      <data key="d2">1f186edce471037e8238d6cefededae6,5ffe8b1e0bd815aed022924d2136a714,a4d1da62d375c7956cd173e192672b4e</data>
+    </node>
+    <node id="&quot;VARIABLE FREQUENCY DRIVE (VFD)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The variable frequency drive (VFD) is part of the control panel system for the separator, used to control the speed of the equipment."</data>
+      <data key="d2">a4d1da62d375c7956cd173e192672b4e</data>
+    </node>
+    <node id="&quot;CONTROL EQUIPMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The control equipment is responsible for controlling and supervising the entire system, providing alarms and actions in case of malfunctions."</data>
+      <data key="d2">a4d1da62d375c7956cd173e192672b4e</data>
+    </node>
+    <node id="&quot;WOOD AND CARDBOARD BOXES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Wood and cardboard boxes are mentioned as materials that can be reused, recycled, or used for energy recovery."</data>
+      <data key="d2">9aed884ce2b3a0f6a8aef5268d50b852</data>
+    </node>
+    <node id="&quot;PLASTICS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Plastics are described as materials that should be recycled or burnt at a licensed waste incineration plant."</data>
+      <data key="d2">9aed884ce2b3a0f6a8aef5268d50b852</data>
+    </node>
+    <node id="&quot;METAL STRAPS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Metal straps are identified as items that should be sent for material recycling."</data>
+      <data key="d2">9aed884ce2b3a0f6a8aef5268d50b852</data>
+    </node>
+    <node id="&quot;OIL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Oil is mentioned in the context of maintenance, where it must be handled according to local regulations."</data>
+      <data key="d2">9aed884ce2b3a0f6a8aef5268d50b852</data>
+    </node>
+    <node id="&quot;RUBBER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Rubber is described as a material that should be burnt at a licensed waste incineration plant or disposed of in a licensed landfill if incineration is not available."</data>
+      <data key="d2">9aed884ce2b3a0f6a8aef5268d50b852</data>
+    </node>
+    <node id="&quot;BEARINGS AND OTHER METAL PARTS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Bearings and other metal parts are mentioned as items that should be sent to a licensed handler for material recycling."</data>
+      <data key="d2">9aed884ce2b3a0f6a8aef5268d50b852</data>
+    </node>
+    <node id="&quot;SEAL RINGS AND FRICTION LININGS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Seal rings and friction linings are described as items that should be disposed of in a licensed landfill, with a reminder to check local regulations."</data>
+      <data key="d2">9aed884ce2b3a0f6a8aef5268d50b852</data>
+    </node>
+    <node id="&quot;ELECTRONIC PARTS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Worn out or defected electronic parts are mentioned as items that should be sent to a licensed handler for material recycling."</data>
+      <data key="d2">9aed884ce2b3a0f6a8aef5268d50b852</data>
+    </node>
+    <node id="&quot;EQUIPMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">The equipment in question is subject to specific protocols when it reaches the end of its usable life, particularly in the context of scrapping. It must be recycled in accordance with the relevant local regulations to ensure environmental compliance. Additionally, this equipment has components that come into contact with hot process liquids, posing a burn hazard. To mitigate this risk and enhance safety, warning signs are required to be affixed to the equipment, alerting users and handlers to the potential danger.</data>
+      <data key="d2">480e7d22fdbef7a752697512cbe76b54,9aed884ce2b3a0f6a8aef5268d50b852</data>
+    </node>
+    <node id="&quot;OPERATING WATER MODULE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">The Operating Water Module is a component within a separator system that may contain water. It is essential that this module be drained of any water before it is put into storage. This precaution is necessary to ensure the integrity and maintenance of the equipment.</data>
+      <data key="d2">65e02ff611250523115fc00779cc6769,9aed884ce2b3a0f6a8aef5268d50b852</data>
+    </node>
+    <node id="&quot;OPERATING WATER SYSTEM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">The Operating Water System is a component of a separator that requires draining of water prior to storage. It is essential that this part of the equipment is properly emptied of water to ensure its maintenance and integrity during storage.</data>
+      <data key="d2">65e02ff611250523115fc00779cc6769,9aed884ce2b3a0f6a8aef5268d50b852</data>
+    </node>
+    <node id="&quot;COOLING JACKETS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Cooling jackets are components of a separator that must be drained of water before storage to prevent water damage. It is emphasized that draining these parts is a necessary step in the equipment maintenance process to ensure their longevity and proper function.</data>
+      <data key="d2">65e02ff611250523115fc00779cc6769,9aed884ce2b3a0f6a8aef5268d50b852</data>
+    </node>
+    <node id="&quot;TEMPERATURE: +10C / +50C&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Temperature: +10C / +50C refers to the recommended temperature range for the storage area of separator components."</data>
+      <data key="d2">65e02ff611250523115fc00779cc6769</data>
+    </node>
+    <node id="&quot;HUMIDITY: &lt; 85%&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Humidity: &lt; 85% indicates the maximum humidity level for the proper storage of separator components."</data>
+      <data key="d2">65e02ff611250523115fc00779cc6769</data>
+    </node>
+    <node id="&quot;FORKLIFT OPERATOR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">The forklift operator is a certified and trained individual who is responsible for operating a forklift during lifting procedures. This operator must possess the necessary certification and training to lift systems using a forklift in accordance with the specified lifting drawing.</data>
+      <data key="d2">6b4e95cf3d0f6e040d8b7936fd004557,9d42ca5b26ee287d4aa3c467961035d8</data>
+    </node>
+    <node id="&quot;LOCAL SAFETY REGULATIONS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Local safety regulations refer to the legal requirements specific to the geographical area where the installation takes place."</data>
+      <data key="d2">9d42ca5b26ee287d4aa3c467961035d8</data>
+    </node>
+    <node id="&quot;RESPONSIBLE AUTHORITIES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Responsible authorities are the entities that must inspect and approve the installation according to local safety regulations."</data>
+      <data key="d2">9d42ca5b26ee287d4aa3c467961035d8</data>
+    </node>
+    <node id="&quot;EU&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">The EU is referenced in the context of establishing guidelines that a machine must adhere to before it can be connected to the electric mains supply. These guidelines are essential to ensure that the machine complies with the necessary safety and operational standards set by the EU.</data>
+      <data key="d2">19922e809822acabceb4c04ed88af844,cc9b1ca05a577a62801b2b350df1f662</data>
+    </node>
+    <node id="&quot;AUTHORIZED ELECTRICIANS AND PERSONNEL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Authorized electricians and personnel are required to perform electrical installation work according to local legislation."</data>
+      <data key="d2">cc9b1ca05a577a62801b2b350df1f662</data>
+    </node>
+    <node id="&quot;CONTROL CABINET&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The control cabinet is a physical location within the system where the dimensions and cables are specified in the electrical drawing."</data>
+      <data key="d2">cc9b1ca05a577a62801b2b350df1f662</data>
+    </node>
+    <node id="&quot;CIP&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">CIP (Clean-In-Place) is a specific operation mode within a system's operating routine that can be selected from STANDBY. It is designed for the internal cleaning of the system, where the separator runs at full speed. During the CIP phase, the system automatically regulates the feed flow rate and backpressure in the centrifugate outlet, similar to what occurs during PRODUCTION. This process involves the use of recommended CIP liquids for cleaning. The control system has pre-set values for the flow set point and backpressure set point, which are utilized during the CIP mode to ensure proper maintenance and cleaning operations.</data>
+      <data key="d2">12db7bb38a95d1d51e716d11e1ab2f24,19922e809822acabceb4c04ed88af844,5de70f09dcbc6ed3581a186cb4b8e45f,87f09f4a6b5dcc0bf841590ce15cce50,90bbc022642045b3f3e81584019297bc,d25da374bc1f3686f5c091bfa2c61f83,ea829825a6379229d8827c222ce55681</data>
+    </node>
+    <node id="&quot;MACHINE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">19922e809822acabceb4c04ed88af844</data>
+    </node>
+    <node id="&quot;SYSTEM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">19922e809822acabceb4c04ed88af844</data>
+    </node>
+    <node id="&quot;PLANT OPERATOR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">The Plant Operator holds a role within an organization that involves decision-making and operational responsibilities. Specifically, this individual is tasked with selecting appropriate cleaning materials and carrying out the cleaning procedures. This position requires a level of autonomy and expertise to ensure that the cleaning is done effectively and efficiently.</data>
+      <data key="d2">0db8ff006bf3f3a20480bb3299943441,7f8597c9687fb8c39f1df99055763b63</data>
+    </node>
+    <node id="&quot;INSTALLATION, MAINTENANCE AND LIFTING INSTRUCTIONS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Installation, Maintenance and Lifting Instructions is a document or section within a document that provides guidelines for the installation and maintenance of equipment."</data>
+      <data key="d2">7f8597c9687fb8c39f1df99055763b63</data>
+    </node>
+    <node id="&quot;AUXILIARY EQUIPMENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Auxiliary Equipment installation is an event or process involving the setup of additional equipment such as valve modules and electric/pneumatic units."</data>
+      <data key="d2">7f8597c9687fb8c39f1df99055763b63</data>
+    </node>
+    <node id="&quot;VALVE MODULES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Valve modules such as process liquid module or service liquid unit are components that need to be fastened to the foundation with high-strength bolts."</data>
+      <data key="d2">480e7d22fdbef7a752697512cbe76b54</data>
+    </node>
+    <node id="&quot;PIPE-WORK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The pipe-work to and from the separator must be designed to have sufficient flexibility to prevent the transmission of possible vibrations."</data>
+      <data key="d2">480e7d22fdbef7a752697512cbe76b54</data>
+    </node>
+    <node id="&quot;SEPARATION SYSTEM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The separation system may have ventilation outlets from which hazardous liquids or vapors could emerge, requiring careful installation to protect personnel and the environment."</data>
+      <data key="d2">480e7d22fdbef7a752697512cbe76b54</data>
+    </node>
+    <node id="&quot;SENSORS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Sensors are essential for safety and must work correctly, requiring regular checks and inspections."</data>
+      <data key="d2">480e7d22fdbef7a752697512cbe76b54</data>
+    </node>
+    <node id="&quot;MODULES AND UNITS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Modules and units need to be connected to earth in accordance with local regulations using provided earthing screws."</data>
+      <data key="d2">480e7d22fdbef7a752697512cbe76b54</data>
+    </node>
+    <node id="&quot;STARTING EQUIPMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Starting equipment containing the main switch may require a separate lockable safety switch if not visible from the separator according to most local safety regulations."</data>
+      <data key="d2">480e7d22fdbef7a752697512cbe76b54</data>
+    </node>
+    <node id="&quot;OWMC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">OWMC is an organization that specializes in providing services associated with the commissioning of separator systems. Their expertise covers the necessary steps required before the commissioning process, as outlined in their 'Service &amp; Maintenance Manual'. This ensures that the separators are set up and maintained according to industry standards and best practices.</data>
+      <data key="d2">00ed76604bb3d5c43d5427178783690d,a65970b85bfe5c465ef708c0dddd9400</data>
+    </node>
+    <node id="&quot;MECHANICAL COMPLETION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Mechanical Completion is an event or process that involves the thorough checking and testing of equipment and construction to confirm that they have been completed correctly and are ready for commissioning. This step ensures that all installations meet the specific project requirements before moving forward.</data>
+      <data key="d2">00ed76604bb3d5c43d5427178783690d,a65970b85bfe5c465ef708c0dddd9400</data>
+    </node>
+    <node id="&quot;PRE-COMMISSIONING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Pre-commissioning is the phase where a system or unit is prepared for commissioning, involving verification of parameters and readiness for operation."</data>
+      <data key="d2">a65970b85bfe5c465ef708c0dddd9400</data>
+    </node>
+    <node id="&quot;SAT INSTALLATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"SAT Installation refers to a set of points or a process that needs to be verified for both Mechanical Completion and Pre-commissioning phases."</data>
+      <data key="d2">a65970b85bfe5c465ef708c0dddd9400</data>
+    </node>
+    <node id="&quot;SEPARATOR&#8217;S SERVICE AND MAINTENANCE MANUAL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Separator&#8217;s Service and Maintenance Manual contains instructions and specifications for the service and maintenance of the separator system."</data>
+      <data key="d2">a65970b85bfe5c465ef708c0dddd9400</data>
+    </node>
+    <node id="&quot;SOLIDS PUMP MANUAL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Solids Pump Manual contains instructions and specifications for the service and maintenance of the solids pump, including recommended lubricants."</data>
+      <data key="d2">a65970b85bfe5c465ef708c0dddd9400</data>
+    </node>
+    <node id="&quot;POWER SUPPLY&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Power Supply is checked for the right voltage and hertz according to the separator and motor labels, ensuring proper electrical supply to the system."</data>
+      <data key="d2">346d2b675192cac14c3d1cabd2f2038e</data>
+    </node>
+    <node id="&quot;STAND STILL MODE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Stand Still Mode is a condition of the separation system where all inlet valves are deactivated, no material is fed to the separator, and the centrifugate and solids outlets are closed."</data>
+      <data key="d2">346d2b675192cac14c3d1cabd2f2038e</data>
+    </node>
+    <node id="&quot;STOP MODE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Stop Mode is a state of the separation system that transitions to Stand Still Mode if 0 RPM is detected for 30 seconds, indicating a halt in the separator's operation."</data>
+      <data key="d2">346d2b675192cac14c3d1cabd2f2038e</data>
+    </node>
+    <node id="&quot;STAND STILL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"STAND STILL" is a mode that the system enters when no rotation is detected for 30 seconds, indicating that the separator bowl has stopped rotating and there is a halt in operations. During this state, a safety check is performed before the separator can receive permission to start again.</data>
+      <data key="d2">87f09f4a6b5dcc0bf841590ce15cce50,ba4f4af82e9ed0db923665026353b345</data>
+    </node>
+    <node id="&quot;SAFETY CHECK&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Safety Check is an automatic test run during the STAND STILL mode to ensure the separator is safe to start."</data>
+      <data key="d2">ba4f4af82e9ed0db923665026353b345</data>
+    </node>
+    <node id="&quot;START&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"START" is an event that encompasses a series of actions within a system involving a separator. During "START," the operating water tank situated beneath the separator is filled with water until it reaches a sufficient level. Concurrently, "START" also refers to the process where the separator's motor is powered on, causing the bowl to rotate and accelerate. This phase of operation includes a start discharge. Both the filling of the water tank and the activation of the separator motor are integral parts of the "START" event, which are carried out in tandem to ensure the system begins its function properly.</data>
+      <data key="d2">0dd41e140364139ed1f66deeabdf50c6,ba4f4af82e9ed0db923665026353b345</data>
+    </node>
+    <node id="&quot;STOP&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"STOP" is a mode within a system that is designed to cease operation. This mode can be triggered after a certain period has elapsed, as indicated by P1027. When "STOP" is activated, it specifically involves turning off the separator motor, which results in the bowl speed decreasing, and ensures that no material is fed to the separator. Additionally, "STOP" can be selected as a function to halt the separator during the START process. When this occurs, the system transitions to STANDBY mode once the pre-selected bowl speed is reached. Moreover, the initiation of "STOP" is accompanied by an alarm, signaling the system's change to STOP mode.</data>
+      <data key="d2">3ed2e8b7172fcbc49574f825f6cf127b,5de70f09dcbc6ed3581a186cb4b8e45f,87f09f4a6b5dcc0bf841590ce15cce50,ba4f4af82e9ed0db923665026353b345</data>
+    </node>
+    <node id="&quot;STANDBY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">STANDBY is a mode of operation for a system that serves as an intermediary state allowing for the selection of other modes such as PRODUCTION and CIP (Clean-In-Place). When the system is in STANDBY mode, it operates at full selected speed without production, essentially waiting for further instructions. During this mode, it is possible to initiate a solids discharge manually. However, there is a time limit associated with STANDBY mode, after which an alarm A37 is triggered. This alarm may also be activated due to discharge issues or other faults within the system. It is important to note that the system should not be left in STANDBY mode for extended periods to avoid the risk of overheating. There is an indication that additional information about STANDBY mode exists, but the description is incomplete due to the text being cut off.</data>
+      <data key="d2">0dd41e140364139ed1f66deeabdf50c6,122b3226e8d1bed0b3226f9dc04a2b57,498742c201c28da38e46df0a549e9d1e,5de70f09dcbc6ed3581a186cb4b8e45f,ba4f4af82e9ed0db923665026353b345,d25da374bc1f3686f5c091bfa2c61f83</data>
+    </node>
+    <node id="&quot;PRODUCTION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">PRODUCTION is an operational mode within the Control System that can be selected from STANDBY. It is a phase where the separator runs at full speed and processes product from a product line. During PRODUCTION, the regulation of feed flow rate and back pressure in the centrifugate outlet is automatically controlled. This mode includes additional fields for discharge initiation logic and comes with preset operation values, specifically set point values for the flow, which can be adjusted if necessary. These pre-set values are part of the control system's function, indicating that the system is in a specific operational mode designed for efficient processing.</data>
+      <data key="d2">0dd41e140364139ed1f66deeabdf50c6,12db7bb38a95d1d51e716d11e1ab2f24,498742c201c28da38e46df0a549e9d1e,5de70f09dcbc6ed3581a186cb4b8e45f,71bfe9200595eaf7299b94be14dcbe81,90bbc022642045b3f3e81584019297bc,d25da374bc1f3686f5c091bfa2c61f83,ea829825a6379229d8827c222ce55681</data>
+    </node>
+    <node id="&quot;DISCHARGE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"DISCHARGE is an action that can be manually or automatically initiated during PRODUCTION or CIP to release solids from the separator."</data>
+      <data key="d2">5de70f09dcbc6ed3581a186cb4b8e45f</data>
+    </node>
+    <node id="&quot;P222-1&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"P222-1 appears to be a designation for a solids pump involved in the process, possibly part of the equipment or system."</data>
+      <data key="d2">87f09f4a6b5dcc0bf841590ce15cce50</data>
+    </node>
+    <node id="&quot;P109&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"P109 seems to be a parameter or setting within the system that determines the running time of the solids pump P222-1."</data>
+      <data key="d2">87f09f4a6b5dcc0bf841590ce15cce50</data>
+    </node>
+    <node id="&quot;EMERGENCY STOP&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"EMERGENCY STOP is an event triggered by pressing the emergency stop button, deactivating control power for all motor contactors and initiating a specific alarm."</data>
+      <data key="d2">87f09f4a6b5dcc0bf841590ce15cce50</data>
+    </node>
+    <node id="&quot;A42 EMERGENCY STOP ACTIVATED&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"A42 Emergency stop activated is an alarm event that occurs when the emergency stop mode is engaged."</data>
+      <data key="d2">87f09f4a6b5dcc0bf841590ce15cce50</data>
+    </node>
+    <node id="&quot;EMERGENCY STOP MODE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Emergency Stop Mode is a safety feature that deactivates the control power for all motor contactors and triggers the alarm A42 Emergency stop activated."</data>
+      <data key="d2">5ffe8b1e0bd815aed022924d2136a714</data>
+    </node>
+    <node id="&quot;NORMAL STOP SEQUENCE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Normal Stop Sequence is the process that is reached upon resetting the emergency stop button, provided all alarms are acknowledged."</data>
+      <data key="d2">5ffe8b1e0bd815aed022924d2136a714</data>
+    </node>
+    <node id="&quot;SEPARATOR CONTROL SYSTEM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Separator Control System refers to the system responsible for managing the operation of a separator, including power and safety protocols."</data>
+      <data key="d2">5ffe8b1e0bd815aed022924d2136a714</data>
+    </node>
+    <node id="&quot;INSTALLATION MANUAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Installation Manual is a document that provides instructions for the correct assembly of the separator."</data>
+      <data key="d2">5ffe8b1e0bd815aed022924d2136a714</data>
+    </node>
+    <node id="&quot;ELECTRICAL DRAWING&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Electrical Drawing is a schematic that shows the correct electrical connections for the separator."</data>
+      <data key="d2">5ffe8b1e0bd815aed022924d2136a714</data>
+    </node>
+    <node id="&quot;CONNECTION LIST&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Connection List is a document detailing the proper liquid and electrical connections and couplings for the separator."</data>
+      <data key="d2">5ffe8b1e0bd815aed022924d2136a714</data>
+    </node>
+    <node id="&quot;V370-1&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"V370-1 is a manual valve that needs to be opened before powering on the separator."</data>
+      <data key="d2">5ffe8b1e0bd815aed022924d2136a714</data>
+    </node>
+    <node id="&quot;V401-2&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">V401-2 is a manual valve located in the cooling liquid inlet system. It is an essential component of the operational procedure and must be closed before powering on the separator. This step ensures the proper functioning and safety of the system during operation.</data>
+      <data key="d2">1f186edce471037e8238d6cefededae6,5ffe8b1e0bd815aed022924d2136a714</data>
+    </node>
+    <node id="&quot;V401-1&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">V401-1 is a manual valve located in the cooling liquid inlet system. It is essential that V401-1 be opened as part of the operational procedure before powering on the separator. This step ensures the proper flow of cooling liquid necessary for the separator's operation.</data>
+      <data key="d2">1f186edce471037e8238d6cefededae6,5ffe8b1e0bd815aed022924d2136a714</data>
+    </node>
+    <node id="&quot;OPERATOR PANEL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">The Operator Panel is a control interface designed for system operators to manage and monitor the separator's functions. It allows the operator to log in, check the system status, and select operational modes including START or STOP. Additionally, the panel is used to initiate other functions, such as solids discharge. This centralized interface streamlines the process of starting and stopping the separator, ensuring efficient control over the system's operations.</data>
+      <data key="d2">1f186edce471037e8238d6cefededae6,498742c201c28da38e46df0a549e9d1e</data>
+    </node>
+    <node id="&quot;ALARM DIAGRAM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Alarm Diagram is a reference for checking the reasons behind any active alarms displayed on the Operator Panel."</data>
+      <data key="d2">1f186edce471037e8238d6cefededae6</data>
+    </node>
+    <node id="&quot;SEPARATOR MOTOR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">The Separator Motor is an integral component of a system that activates upon selecting the START mode on the Operator Panel. It plays a crucial role in the operation of the separator, as it begins to run when the system is started. Additionally, the Separator Motor experiences a temporary increase in power consumption during the acceleration phase, where new product is brought up to the bowl's peripheral speed.</data>
+      <data key="d2">122b3226e8d1bed0b3226f9dc04a2b57,1f186edce471037e8238d6cefededae6,498742c201c28da38e46df0a549e9d1e</data>
+    </node>
+    <node id="&quot;FUNCTION DESCRIPTION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Function Description is an event or process where the functionalities and operations of a system are explained or detailed."</data>
+      <data key="d2">2abbff1658722ea82279c24df5271f34</data>
+    </node>
+    <node id="&quot;I/O SCREEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">The I/O Screen is a feature within a control system that provides users with the ability to view the status of all digital and analog input/output (I/O) addresses. It serves as a crucial part of the Control System, offering a display where the status of these I/O addresses can be monitored. This functionality is essential for users to manage and troubleshoot the system effectively.</data>
+      <data key="d2">2abbff1658722ea82279c24df5271f34,71bfe9200595eaf7299b94be14dcbe81</data>
+    </node>
+    <node id="&quot;DISCHARGE LOGIC&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Discharge Logic is a process or set of rules within a Control System that is used to manage and set the discharge time intervals and volume discharge set points in a system. This ensures that the system operates efficiently by controlling the timing and amount of discharge according to predefined criteria.</data>
+      <data key="d2">2abbff1658722ea82279c24df5271f34,71bfe9200595eaf7299b94be14dcbe81</data>
+    </node>
+    <node id="&quot;SYSTEM SCREEN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The System Screen displays system information such as PLC program number, version, and date, and allows access to user management and alarm lists."</data>
+      <data key="d2">71bfe9200595eaf7299b94be14dcbe81</data>
+    </node>
+    <node id="&quot;PLC PROGRAM&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"PLC Program is an event or entity related to the Control System that has a specific number, version, and date associated with it."</data>
+      <data key="d2">9e84a2c852a1e3d6cd66dc0b8c0ba470</data>
+    </node>
+    <node id="&quot;HMI SCREEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"HMI Screen refers to the interface of the Control System that becomes non-sensitive to touch during the Clear Screen function."</data>
+      <data key="d2">9e84a2c852a1e3d6cd66dc0b8c0ba470</data>
+    </node>
+    <node id="&quot;ALARM LIST&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">The "Alarm List" is a feature within the Control System, specifically located on the System tab, that records and displays active alarms. It allows users to monitor and address faults in the system by providing a list of active alarms. Users can access this list and have the capability to clear the alarms as needed.</data>
+      <data key="d2">256f508c945cb5928674df1c0c3a0049,9e84a2c852a1e3d6cd66dc0b8c0ba470,a559f7a41163bf3068b00c0518de096e</data>
+    </node>
+    <node id="&quot;ALARM HISTORY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Alarm History" is a feature within the Control System that serves as a log for keeping a record of past alarms. It is presented as a screen that displays the latest 100 alarms, allowing users to review past system alerts. This log can be accessed from the System tab, and users have the capability to access and clear the recorded alarms as needed to maintain an organized overview of the system's alert history.</data>
+      <data key="d2">256f508c945cb5928674df1c0c3a0049,9e84a2c852a1e3d6cd66dc0b8c0ba470</data>
+    </node>
+    <node id="&quot;CURRENT LOG&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Current Log is a screen in the Control System that shows the last ten current peaks during a discharge cycle, allowing inspection of current increases."</data>
+      <data key="d2">9e84a2c852a1e3d6cd66dc0b8c0ba470</data>
+    </node>
+    <node id="&quot;TREND SCREEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Trend Screen is a part of the Control System where users can view various trend diagrams, such as current/speed, backpressure control, and flow control trends."</data>
+      <data key="d2">9e84a2c852a1e3d6cd66dc0b8c0ba470</data>
+    </node>
+    <node id="&quot;FLOW CONTROL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Flow Control is an event or process described in the document, involving the adjustment of feed flow rates and the use of control functions."</data>
+      <data key="d2">12db7bb38a95d1d51e716d11e1ab2f24</data>
+    </node>
+    <node id="&quot;FCV201&#8211;1&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"FCV201&#8211;1 is likely a designation for a specific valve or location within a control system for managing flow rates."</data>
+      <data key="d2">12db7bb38a95d1d51e716d11e1ab2f24</data>
+    </node>
+    <node id="&quot;FIT201-1&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"FIT201-1 is likely a designation for a specific flow rate indicator or location within a control system."</data>
+      <data key="d2">12db7bb38a95d1d51e716d11e1ab2f24</data>
+    </node>
+    <node id="&quot;AUTO MODE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"AUTO mode is a control mode where the equipment regulates according to the set point."</data>
+      <data key="d2">90bbc022642045b3f3e81584019297bc,ea829825a6379229d8827c222ce55681</data>
+    </node>
+    <node id="&quot;MANUAL MODE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Manual mode is a control mode where the output is manually adjusted."</data>
+      <data key="d2">90bbc022642045b3f3e81584019297bc,ea829825a6379229d8827c222ce55681</data>
+    </node>
+    <node id="&quot;OPEN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"OPEN is a control mode where the output is set to 100%."</data>
+      <data key="d2">90bbc022642045b3f3e81584019297bc,ea829825a6379229d8827c222ce55681</data>
+    </node>
+    <node id="&quot;PID-PARAMETERS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">PID-Parameters refer to the adjustable settings within a control system that affect the controller function and determine how the system responds to process variations. These parameters are critical for tuning the controller to ensure optimal performance of the control system.</data>
+      <data key="d2">90bbc022642045b3f3e81584019297bc,ea829825a6379229d8827c222ce55681</data>
+    </node>
+    <node id="&quot;SHOW TREND&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Show Trend" is a feature within the control system that enables users to display flow trend diagrams for both backpressure and feed flow rate. This function provides a visual representation of the trends in these two parameters, allowing for better monitoring and control within the system.</data>
+      <data key="d2">90bbc022642045b3f3e81584019297bc,ea829825a6379229d8827c222ce55681</data>
+    </node>
+    <node id="&quot;BACKPRESSURE CONTROL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Backpressure control is a controller function for managing the backpressure in the centrifugate outlet."</data>
+      <data key="d2">90bbc022642045b3f3e81584019297bc</data>
+    </node>
+    <node id="&quot;PID TAB&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The PID tab is a part of a control system interface where users can access and adjust PID parameters."</data>
+      <data key="d2">ea829825a6379229d8827c222ce55681</data>
+    </node>
+    <node id="&quot;OUTPUT TEST&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Output Test is a function within the control system that allows for the testing of system output signals."</data>
+      <data key="d2">ea829825a6379229d8827c222ce55681</data>
+    </node>
+    <node id="&quot;I/O-LIST&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The I/O-List is part of the technical documentation that details the input/output signals of the control system."</data>
+      <data key="d2">ea829825a6379229d8827c222ce55681</data>
+    </node>
+    <node id="&quot;FACEPLATE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The faceplate is an interface element that provides manual command options for checking equipment."</data>
+      <data key="d2">ea829825a6379229d8827c222ce55681</data>
+    </node>
+    <node id="&quot;VFD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"VFD (Variable Frequency Drive) is a component that receives control values from the Control System to adjust the bowl speed."</data>
+      <data key="d2">ecbcb08784e2de84272a454474e8dd65</data>
+    </node>
+    <node id="&quot;ALARM MANAGEMENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Alarm Management is a process within operational routines that involves supervising system components and managing the acknowledgement and activation of alarms. It is responsible for alerting personnel through visual or auditory signals in the event of system malfunctions. This ensures that any issues are promptly addressed, maintaining the integrity and functionality of the system.</data>
+      <data key="d2">ecbcb08784e2de84272a454474e8dd65,f81dd94fde1b5fcdb2103928a6e9a735</data>
+    </node>
+    <node id="&quot;ALARM LAMP&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Alarm Lamp is a part of the control panel that flashes to alert users of new alarms in the system."</data>
+      <data key="d2">a559f7a41163bf3068b00c0518de096e</data>
+    </node>
+    <node id="&quot;ACK BUTTON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The ACK Button is used to acknowledge and reset alarms within the control system."</data>
+      <data key="d2">a559f7a41163bf3068b00c0518de096e</data>
+    </node>
+    <node id="&quot;ALARM ICON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Alarm Icon appears on the screen to indicate unacknowledged alarms and becomes stable once all alarms are acknowledged."</data>
+      <data key="d2">a559f7a41163bf3068b00c0518de096e</data>
+    </node>
+    <node id="&quot;ALARM HISTORY SCREEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Alarm History Screen is a feature that displays the history of alarms."</data>
+      <data key="d2">a559f7a41163bf3068b00c0518de096e</data>
+    </node>
+    <node id="&quot;ALARM ACTIVATION DIAGRAM&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Alarm Activation Diagram is a part of the SDS technical documentation that details supervised functions, alarm codes, and alarm interlocks for various operation modes."</data>
+      <data key="d2">256f508c945cb5928674df1c0c3a0049</data>
+    </node>
+    <node id="&quot;ALARM&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Alarm refers to a system event that triggers a notification without automatic action."</data>
+      <data key="d2">3ed2e8b7172fcbc49574f825f6cf127b</data>
+    </node>
+    <node id="&quot;ST DRY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"St Dry stands for STANDBY DRY mode, which is an event where the system gives an alarm and changes to this mode."</data>
+      <data key="d2">3ed2e8b7172fcbc49574f825f6cf127b</data>
+    </node>
+    <node id="&quot;START BLOCKING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Start Blocking is a condition where the system will not accept the START command due to certain faults, accompanied by an alarm indicating the reason."</data>
+      <data key="d2">3ed2e8b7172fcbc49574f825f6cf127b</data>
+    </node>
+    <node id="&quot;ALARM OVERRIDE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Alarm Override is an event where interlocks for certain alarms can be overridden in some operation modes, allowing actions like a PRODUCTION run despite faults."</data>
+      <data key="d2">3ed2e8b7172fcbc49574f825f6cf127b</data>
+    </node>
+    <node id="&quot;DANFOSS VLT FC302&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"DANFOSS VLT FC302 refers to a specific model of a Variable Frequency Drive (VFD) manufactured by Danfoss, which is used in the system described."</data>
+      <data key="d2">3ed2e8b7172fcbc49574f825f6cf127b</data>
+    </node>
+    <node id="&quot;DANFOSS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Danfoss is a manufacturer mentioned in the context of VFD (Variable Frequency Drive) parameters, specifically the VLT FC302 model."</data>
+      <data key="d2">dff0ca60c0f43fb6117c39f4769b187b</data>
+    </node>
+    <node id="&quot;VLT FC302&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"VLT FC302 is a model of a Variable Frequency Drive (VFD) produced by Danfoss, with specific parameters and default values listed."</data>
+      <data key="d2">dff0ca60c0f43fb6117c39f4769b187b</data>
+    </node>
+    <node id="&quot;INSTALLATION AND SETUP INFORMATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Installation and Setup Information refers to the section of the document that provides guidance on configuring VFD parameters."</data>
+      <data key="d2">dff0ca60c0f43fb6117c39f4769b187b</data>
+    </node>
+    <node id="&quot;MOTOR&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Motor is a piece of technology with various settings and parameters such as nominal power, voltage, frequency, current, and speed."</data>
+      <data key="d2">be9e7a8988ef9eb130edf8c185b1a483</data>
+    </node>
+    <node id="&quot;TERMINAL 53&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Terminal 53 is a component of the Motor technology that has settings for analog input with low and high current specifications."</data>
+      <data key="d2">be9e7a8988ef9eb130edf8c185b1a483</data>
+    </node>
+    <node id="&quot;TERMINAL 42&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Terminal 42 is a component of the Motor technology that deals with analog output related to motor current."</data>
+      <data key="d2">be9e7a8988ef9eb130edf8c185b1a483</data>
+    </node>
+    <node id="&quot;TERMINAL 29&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Terminal 29 is a component of the Motor technology with a mode that can be set to input or output."</data>
+      <data key="d2">be9e7a8988ef9eb130edf8c185b1a483</data>
+    </node>
+    <node id="&quot;TERMINAL 19&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Terminal 19 is a component of the Motor technology that has a digital input for Reversing Reset."</data>
+      <data key="d2">be9e7a8988ef9eb130edf8c185b1a483</data>
+    </node>
+    <node id="&quot;TERMINAL 27&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Terminal 27 is a component of the Motor technology that has a digital input for coast inverse with no operation setting."</data>
+      <data key="d2">be9e7a8988ef9eb130edf8c185b1a483</data>
+    </node>
+    <node id="&quot;SWITCH A53&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Switch A53 is a component related to the Motor technology that can be set to on or off."</data>
+      <data key="d2">be9e7a8988ef9eb130edf8c185b1a483</data>
+    </node>
+    <node id="&quot;SWITCH A54&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Switch A54 is a component related to the Motor technology that can be set to on or off."</data>
+      <data key="d2">be9e7a8988ef9eb130edf8c185b1a483</data>
+    </node>
+    <node id="&quot;AMA (AUTOMATED MOTOR ADAPTION)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"AMA is a process for performing automated motor adaptation, involving setting specific parameters and following screen instructions."</data>
+      <data key="d2">f5514a4a84bb254d2082f8f243b761b6</data>
+    </node>
+    <node id="&quot;SPEED CONVERTER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Speed Converter refers to a system or component within a larger mechanical or electrical apparatus that has settings for relays and output involving rpm (revolutions per minute)."</data>
+      <data key="d2">f5514a4a84bb254d2082f8f243b761b6</data>
+    </node>
+    <node id="&quot;ALFA LAVAL SERVICE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Alfa Laval Service is likely an organization that provides support and spare parts for the machinery or process in question."</data>
+      <data key="d2">f81dd94fde1b5fcdb2103928a6e9a735</data>
+    </node>
+    <node id="&quot;SPARE PARTS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f81dd94fde1b5fcdb2103928a6e9a735</data>
+    </node>
+    <edge source="&quot;ALFA LAVAL TECHNOLOGIES AB&quot;" target="&quot;TUMBA, SWEDEN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alfa Laval Technologies AB is located in Tumba, Sweden, as indicated by the address in the document."</data>
+      <data key="d5">eec1ded7207b160ca901012fb8cd252d</data>
+    </edge>
+    <edge source="&quot;ALFA LAVAL TECHNOLOGIES AB&quot;" target="&quot;MBPX404&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alfa Laval Technologies AB is responsible for the publication of the installation and operating instructions for the MBPX404 system."</data>
+      <data key="d5">eec1ded7207b160ca901012fb8cd252d</data>
+    </edge>
+    <edge source="&quot;ALFA LAVAL CORPORATE AB&quot;" target="&quot;ALFA LAVAL SEPARATION SYSTEM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alfa Laval Corporate AB holds the copyrights and intellectual property rights for the documentation of the Alfa Laval Separation System."</data>
+      <data key="d5">eec1ded7207b160ca901012fb8cd252d</data>
+    </edge>
+    <edge source="&quot;MBPX404&quot;" target="&quot;ALFA LAVAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"MBPX404 is part of the Alfa Laval Separation System, which is provided by Alfa Laval, suggesting a relationship between the organization and the geo/entity."</data>
+      <data key="d5">b4bacb7a36f8309ada13992cc678e68d</data>
+    </edge>
+    <edge source="&quot;ALFA LAVAL SEPARATION SYSTEM&quot;" target="&quot;MBPX404 SYSTEM&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">The MBPX404 System is an integral component of the Alfa Laval Separation System, reflecting a hierarchical relationship where the MBPX404 operates as a subset within the broader Alfa Laval framework. Both descriptions emphasize the connection between the two, with the MBPX404 System being specifically identified as a part of the Alfa Laval Separation System.</data>
+      <data key="d5">2c35d9339caaf49136eba2b75d95ca1c,4970ed525066d2e8e4e64d781d6df95d</data>
+    </edge>
+    <edge source="&quot;ALFA LAVAL SEPARATION SYSTEM&quot;" target="&quot;ALFA LAVAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alfa Laval is the provider of the Alfa Laval Separation System, indicating a direct connection between the organization and the event."</data>
+      <data key="d5">b4bacb7a36f8309ada13992cc678e68d</data>
+    </edge>
+    <edge source="&quot;MBPX404 SYSTEM&quot;" target="&quot;SEPARATOR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Separator is a key component of the MBPX404 System, responsible for the clarification process."</data>
+      <data key="d5">2c35d9339caaf49136eba2b75d95ca1c</data>
+    </edge>
+    <edge source="&quot;MBPX404 SYSTEM&quot;" target="&quot;ALFA LAVAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alfa Laval is the manufacturer and provider of the MBPX404 System, which is a product they support and describe in the document."</data>
+      <data key="d5">5d956a4cff03b0f805a81ce0150d8ca3</data>
+    </edge>
+    <edge source="&quot;ALFA LAVAL&quot;" target="&quot;SIEMENS PLC&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alfa Laval uses Siemens PLC automation technology in their separation system."</data>
+      <data key="d5">ab64e68d1db6b2056bf9fe726ec71abd</data>
+    </edge>
+    <edge source="&quot;ALFA LAVAL&quot;" target="&quot;ALFA LAVAL SEPARATOR SYSTEM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The manual provides instructions and descriptions for operating the Alfa Laval Separator System, indicating a direct connection between the organization and the system."</data>
+      <data key="d5">ab64e68d1db6b2056bf9fe726ec71abd</data>
+    </edge>
+    <edge source="&quot;ALFA LAVAL&quot;" target="&quot;SAFETY INSTRUCTIONS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alfa Laval provides the 'Safety Instructions' for the equipment, indicating their responsibility for the safe operation of the system."</data>
+      <data key="d5">f87326af03fd283c51d00167f0d5f57a</data>
+    </edge>
+    <edge source="&quot;ALFA LAVAL&quot;" target="&quot;OPERATORS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Operators must follow the safety instructions provided by Alfa Laval to properly operate the equipment and avoid breakdowns."</data>
+      <data key="d5">80d5ef5ff75eb08c10ab33897125d948</data>
+    </edge>
+    <edge source="&quot;ALFA LAVAL&quot;" target="&quot;PREVENTIVE MAINTENANCE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alfa Laval recommends preventive maintenance, which includes visual inspections and periodic replacement of parts to optimize system operation."</data>
+      <data key="d5">e5be782c0dd646b3f9d63c40517fd3f8</data>
+    </edge>
+    <edge source="&quot;ALFA LAVAL&quot;" target="&quot;REPAIRS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alfa Laval addresses the need for repairs, suggesting that damaged components should be replaced or repaired to minimize system downtime."</data>
+      <data key="d5">e5be782c0dd646b3f9d63c40517fd3f8</data>
+    </edge>
+    <edge source="&quot;ALFA LAVAL&quot;" target="&quot;SAFETY EQUIPMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alfa Laval mandates the use of safety equipment such as safety shoes, glasses, and gloves when installing, assembling, disassembling, and inspecting machinery."</data>
+      <data key="d5">e5be782c0dd646b3f9d63c40517fd3f8</data>
+    </edge>
+    <edge source="&quot;ALFA LAVAL&quot;" target="&quot;CONTROL SYSTEM&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Alfa Laval is the organization that is responsible for the Control System of the separator. This responsibility encompasses managing alarms and ensuring operational safety. The presence of Alfa Laval's logo on the control system's process screen indicates a direct relationship with the Control System, suggesting that Alfa Laval is likely the manufacturer or provider of the Control System.</data>
+      <data key="d5">6ecf94acf64bae1bbb204527c65874dc,72c56f36f8877ba74d7a132a5a01f619</data>
+    </edge>
+    <edge source="&quot;ALFA LAVAL&quot;" target="&quot;SAFETY STOP&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Alfa Laval is the designated organization to be contacted for advice and support in the event of a Safety Stop when the cause of the fault is unclear.</data>
+      <data key="d5">72c56f36f8877ba74d7a132a5a01f619,a05c5707f08c3e63aa8b5935e16841ab</data>
+    </edge>
+    <edge source="&quot;ALFA LAVAL&quot;" target="&quot;VIBRATION&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Alfa Laval's separator has experienced an event characterized by excessive vibration, necessitating immediate action. In such instances, the procedure may require contacting Alfa Laval for assistance, especially if the situation cannot be resolved without further instructions.</data>
+      <data key="d5">72c56f36f8877ba74d7a132a5a01f619,a05c5707f08c3e63aa8b5935e16841ab</data>
+    </edge>
+    <edge source="&quot;ALFA LAVAL&quot;" target="&quot;HOT SURFACE / HIGH TEMPERATURE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alfa Laval, being the referenced organization, may provide guidelines or equipment that relates to the Hot Surface / High Temperature event."</data>
+      <data key="d5">a05c5707f08c3e63aa8b5935e16841ab</data>
+    </edge>
+    <edge source="&quot;ALFA LAVAL&quot;" target="&quot;TRANSPORTATION AND LIFTING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alfa Laval is likely the provider of the manuals referenced for the Transportation and Lifting event, indicating their involvement in these procedures."</data>
+      <data key="d5">a05c5707f08c3e63aa8b5935e16841ab</data>
+    </edge>
+    <edge source="&quot;ALFA LAVAL&quot;" target="&quot;SEPARATOR&quot;">
+      <data key="d3">3.0</data>
+      <data key="d4">Alfa Laval is the organization responsible for the Separator. They provide detailed unpacking and lifting instructions to ensure the Separator is handled correctly to avoid damage or injuries. It is recommended that a representative from Alfa Laval be present during the unpacking and inspection of the Separator to assist and ensure proper procedures are followed. Additionally, Alfa Laval supplies the separators along with the necessary documentation and instructions for their correct installation and lifting, ensuring that customers have all the information required for safe and efficient setup.</data>
+      <data key="d5">280b4d4a3690806733edff33d3dd0938,443ba419e3d87023c2f7d31b3edf0f64,ba449d3f57dac3c8c09bbf9b7118516d</data>
+    </edge>
+    <edge source="&quot;ALFA LAVAL&quot;" target="&quot;FORKLIFT OPERATOR&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">The forklift operator at Alfa Laval must be both trained and certified according to the company's specific guidelines for lifting operations. Additionally, when lifting the system, the operator is required to adhere to the guidelines set forth by Alfa Laval to ensure safety and compliance with their standards.</data>
+      <data key="d5">6b4e95cf3d0f6e040d8b7936fd004557,9d42ca5b26ee287d4aa3c467961035d8</data>
+    </edge>
+    <edge source="&quot;ALFA LAVAL&quot;" target="&quot;AUTHORIZED PERSONNEL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Authorized personnel are likely to follow Alfa Laval's instructions for mechanical installation work."</data>
+      <data key="d5">9d42ca5b26ee287d4aa3c467961035d8</data>
+    </edge>
+    <edge source="&quot;ALFA LAVAL&quot;" target="&quot;LOCAL SAFETY REGULATIONS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alfa Laval's installation guidance must adhere to local safety regulations."</data>
+      <data key="d5">9d42ca5b26ee287d4aa3c467961035d8</data>
+    </edge>
+    <edge source="&quot;ALFA LAVAL&quot;" target="&quot;RESPONSIBLE AUTHORITIES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alfa Laval may interact with responsible authorities during the inspection and approval process of the installation."</data>
+      <data key="d5">9d42ca5b26ee287d4aa3c467961035d8</data>
+    </edge>
+    <edge source="&quot;ALFA LAVAL&quot;" target="&quot;PLANT OPERATOR&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">The Plant Operator at Alfa Laval is tasked with the responsibility of using the company's recommended CIP (Clean-in-Place) liquids for cleaning processes. This indicates a direct relationship between the Plant Operator's duties and Alfa Laval's guidelines and products. The consistent use of Alfa Laval's recommended CIP liquids underscores the adherence to the organization's standards and protocols in maintaining equipment hygiene and performance.</data>
+      <data key="d5">0db8ff006bf3f3a20480bb3299943441,7f8597c9687fb8c39f1df99055763b63</data>
+    </edge>
+    <edge source="&quot;CONTROL PROGRAM&quot;" target="&quot;OPERATOR INTERFACE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Control Program runs various sequences automatically and uses complex functions that are managed through the Operator Interface."</data>
+      <data key="d5">f87326af03fd283c51d00167f0d5f57a</data>
+    </edge>
+    <edge source="&quot;CONTROL PROGRAM&quot;" target="&quot;SDS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Detailed descriptions of the sequences and functions of the Control Program are found in the SDS."</data>
+      <data key="d5">f87326af03fd283c51d00167f0d5f57a</data>
+    </edge>
+    <edge source="&quot;CONTROL PROGRAM&quot;" target="&quot;SEPARATOR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Control Program is designed to operate the Separator, ensuring its best possible performance and safe operation."</data>
+      <data key="d5">346d2b675192cac14c3d1cabd2f2038e</data>
+    </edge>
+    <edge source="&quot;OPERATOR INTERFACE&quot;" target="&quot;SDS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Instructions on how to use the complex functions available in the Operator Interface are detailed in the SDS."</data>
+      <data key="d5">f87326af03fd283c51d00167f0d5f57a</data>
+    </edge>
+    <edge source="&quot;OPERATOR INTERFACE&quot;" target="&quot;CONTROL SYSTEM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Operator Interface is a component of the Control System, as it is part of the system's functionality described in the text."</data>
+      <data key="d5">6ecf94acf64bae1bbb204527c65874dc</data>
+    </edge>
+    <edge source="&quot;SDS&quot;" target="&quot;STANDBY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"During STANDBY mode, manual discharge should be initiated as per instructions in the SDS."</data>
+      <data key="d5">0dd41e140364139ed1f66deeabdf50c6</data>
+    </edge>
+    <edge source="&quot;SDS&quot;" target="&quot;DISCHARGE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Instructions for initiating DISCHARGE, either manually or automatically, are referred to in the SDS."</data>
+      <data key="d5">5de70f09dcbc6ed3581a186cb4b8e45f</data>
+    </edge>
+    <edge source="&quot;SDS&quot;" target="&quot;CONTROL SYSTEM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The SDS provides detailed information that is relevant to the Control System's speed control function."</data>
+      <data key="d5">ecbcb08784e2de84272a454474e8dd65</data>
+    </edge>
+    <edge source="&quot;SDS&quot;" target="&quot;ALARM ACTIVATION DIAGRAM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Alarm Activation Diagram is included in the SDS technical documentation and provides detailed information on system alarms."</data>
+      <data key="d5">256f508c945cb5928674df1c0c3a0049</data>
+    </edge>
+    <edge source="&quot;SIEMENS&quot;" target="&quot;CONTROL SYSTEM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Siemens User Manuals provide general information about the control system, suggesting a relationship between Siemens and the system in question."</data>
+      <data key="d5">f87326af03fd283c51d00167f0d5f57a</data>
+    </edge>
+    <edge source="&quot;CONTROL SYSTEM&quot;" target="&quot;FUNCTION DESCRIPTION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Function Description likely details the operations and functionalities of the Control System."</data>
+      <data key="d5">2abbff1658722ea82279c24df5271f34</data>
+    </edge>
+    <edge source="&quot;CONTROL SYSTEM&quot;" target="&quot;I/O SCREEN&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">The I/O Screen is a feature or component of the Control System that provides and shows status information on the system's inputs and outputs. It serves as an interface for monitoring and displaying the current state of these inputs and outputs within the Control System.</data>
+      <data key="d5">2abbff1658722ea82279c24df5271f34,71bfe9200595eaf7299b94be14dcbe81</data>
+    </edge>
+    <edge source="&quot;CONTROL SYSTEM&quot;" target="&quot;DISCHARGE LOGIC&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">The Discharge Logic is an integral component of the Control System, which is responsible for managing discharge parameters, including discharge intervals and set points. This event or process within the Control System ensures that discharge operations are conducted according to specified criteria, maintaining the system's efficiency and effectiveness.</data>
+      <data key="d5">2abbff1658722ea82279c24df5271f34,71bfe9200595eaf7299b94be14dcbe81</data>
+    </edge>
+    <edge source="&quot;CONTROL SYSTEM&quot;" target="&quot;PRODUCTION&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">The CONTROL SYSTEM includes a specific operational mode called PRODUCTION, which is characterized by its own discharge initiation logic settings. Additionally, the PRODUCTION mode functions as a preset within the CONTROL SYSTEM that influences the flow set point. This mode is integral to the CONTROL SYSTEM's functionality, allowing for tailored operational control depending on the requirements of the production process.</data>
+      <data key="d5">12db7bb38a95d1d51e716d11e1ab2f24,71bfe9200595eaf7299b94be14dcbe81</data>
+    </edge>
+    <edge source="&quot;CONTROL SYSTEM&quot;" target="&quot;SYSTEM SCREEN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The System Screen is part of the Control System, offering access to system information and management functions."</data>
+      <data key="d5">71bfe9200595eaf7299b94be14dcbe81</data>
+    </edge>
+    <edge source="&quot;CONTROL SYSTEM&quot;" target="&quot;PLC PROGRAM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The PLC Program is a component of the Control System, indicating a versioning and update relationship."</data>
+      <data key="d5">9e84a2c852a1e3d6cd66dc0b8c0ba470</data>
+    </edge>
+    <edge source="&quot;CONTROL SYSTEM&quot;" target="&quot;HMI SCREEN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The HMI Screen is an interface for the Control System, used for interactions such as the Clear Screen function."</data>
+      <data key="d5">9e84a2c852a1e3d6cd66dc0b8c0ba470</data>
+    </edge>
+    <edge source="&quot;CONTROL SYSTEM&quot;" target="&quot;ALARM LIST&quot;">
+      <data key="d3">3.0</data>
+      <data key="d4">The Alarm List is a feature within the Control System that is utilized for displaying and managing active alarms. Users can access the Alarm List through the Control System interface to view and handle the alarms that are currently active. This component is integral to the Control System, ensuring that users are alerted to and can respond to any issues promptly.</data>
+      <data key="d5">256f508c945cb5928674df1c0c3a0049,9e84a2c852a1e3d6cd66dc0b8c0ba470,a559f7a41163bf3068b00c0518de096e</data>
+    </edge>
+    <edge source="&quot;CONTROL SYSTEM&quot;" target="&quot;ALARM HISTORY&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">The Alarm History is an integral component of the Control System, functioning as a log feature that records and displays the latest 100 alarms. It is designed to be accessed by users who may need to review past events, and it also provides the functionality to be cleared, allowing for the management of the log data within the Control System.</data>
+      <data key="d5">256f508c945cb5928674df1c0c3a0049,9e84a2c852a1e3d6cd66dc0b8c0ba470</data>
+    </edge>
+    <edge source="&quot;CONTROL SYSTEM&quot;" target="&quot;CURRENT LOG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Current Log is a feature of the Control System that displays current peaks during discharge cycles."</data>
+      <data key="d5">9e84a2c852a1e3d6cd66dc0b8c0ba470</data>
+    </edge>
+    <edge source="&quot;CONTROL SYSTEM&quot;" target="&quot;TREND SCREEN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Trend Screen is a feature of the Control System where users can view and analyze trend diagrams."</data>
+      <data key="d5">9e84a2c852a1e3d6cd66dc0b8c0ba470</data>
+    </edge>
+    <edge source="&quot;CONTROL SYSTEM&quot;" target="&quot;FLOW CONTROL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Control System is responsible for the Flow Control event, as it includes the control functions and adjustments described."</data>
+      <data key="d5">12db7bb38a95d1d51e716d11e1ab2f24</data>
+    </edge>
+    <edge source="&quot;CONTROL SYSTEM&quot;" target="&quot;CIP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"CIP mode is a preset within the Control System that affects the flow set point."</data>
+      <data key="d5">12db7bb38a95d1d51e716d11e1ab2f24</data>
+    </edge>
+    <edge source="&quot;CONTROL SYSTEM&quot;" target="&quot;STANDBY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Control System triggers the STANDBY state in response to unsatisfactory discharges or other faults."</data>
+      <data key="d5">122b3226e8d1bed0b3226f9dc04a2b57</data>
+    </edge>
+    <edge source="&quot;CONTROL SYSTEM&quot;" target="&quot;VFD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Control System transmits control values to the VFD to adjust the bowl speed."</data>
+      <data key="d5">ecbcb08784e2de84272a454474e8dd65</data>
+    </edge>
+    <edge source="&quot;CONTROL SYSTEM&quot;" target="&quot;ALARM MANAGEMENT&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">The Control System is tasked with overseeing the Alarm Management as a crucial aspect of its operational routine. It not only supervises the separator and auxiliary equipment but also plays an integral role in the Alarm Management process, particularly when components fail to perform their designated functions.</data>
+      <data key="d5">ecbcb08784e2de84272a454474e8dd65,f81dd94fde1b5fcdb2103928a6e9a735</data>
+    </edge>
+    <edge source="&quot;CONTROL SYSTEM&quot;" target="&quot;ALARM LAMP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Alarm Lamp is a component of the Control System that signals the presence of new alarms."</data>
+      <data key="d5">a559f7a41163bf3068b00c0518de096e</data>
+    </edge>
+    <edge source="&quot;CONTROL SYSTEM&quot;" target="&quot;ACK BUTTON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The ACK Button is used within the Control System to acknowledge and reset alarms."</data>
+      <data key="d5">a559f7a41163bf3068b00c0518de096e</data>
+    </edge>
+    <edge source="&quot;CONTROL SYSTEM&quot;" target="&quot;ALARM ICON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Alarm Icon is part of the Control System's user interface for indicating alarm status."</data>
+      <data key="d5">a559f7a41163bf3068b00c0518de096e</data>
+    </edge>
+    <edge source="&quot;CONTROL SYSTEM&quot;" target="&quot;ALARM HISTORY SCREEN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Alarm History Screen is a feature of the Control System that shows past alarms."</data>
+      <data key="d5">a559f7a41163bf3068b00c0518de096e</data>
+    </edge>
+    <edge source="&quot;CONTROL SYSTEM&quot;" target="&quot;ALARM ACTIVATION DIAGRAM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Alarm Activation Diagram relates to the Control System by detailing the alarm interlocks and responses for supervised functions."</data>
+      <data key="d5">256f508c945cb5928674df1c0c3a0049</data>
+    </edge>
+    <edge source="&quot;SAFETY INSTRUCTIONS&quot;" target="&quot;OPERATORS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Operators are required to read and understand the Safety Instructions before working on the system, which is a directive from Alfa Laval."</data>
+      <data key="d5">80d5ef5ff75eb08c10ab33897125d948</data>
+    </edge>
+    <edge source="&quot;GENERAL SAFETY REGULATIONS&quot;" target="&quot;AUTHORIZED PERSONNEL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Authorized Personnel are required to follow the General Safety Regulations when performing installation work."</data>
+      <data key="d5">4072094116e0853f635f61ce5c46d220</data>
+    </edge>
+    <edge source="&quot;GENERAL SAFETY REGULATIONS&quot;" target="&quot;LOCAL REGULATIONS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"General Safety Regulations include adherence to Local Regulations for electrical installation and safety."</data>
+      <data key="d5">4072094116e0853f635f61ce5c46d220</data>
+    </edge>
+    <edge source="&quot;THE SEPARATOR&quot;" target="&quot;CERTIFIED PERSONNEL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Certified Personnel must carry out lifting and installation of The Separator, following the instructions provided in the manuals."</data>
+      <data key="d5">684a27e7cbfa5a34a18b52abb9c2310a</data>
+    </edge>
+    <edge source="&quot;TOOLS SUPPLIED BY ALFA LAVAL&quot;" target="&quot;HAZARDOUS AREA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The tools supplied by Alfa Laval are sparking and are not to be used in hazardous areas, indicating a direct relevance to safety protocols in hazardous environments."</data>
+      <data key="d5">98c785ac26ae227547dc348f5acb4809</data>
+    </edge>
+    <edge source="&quot;EX-ZONE SAFETY RULES&quot;" target="&quot;MOTOR ROTATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Following Ex-Zone Safety Rules is essential to prevent incorrect Motor Rotation and associated hazards."</data>
+      <data key="d5">b4c77d7015bb6bbb077e8fd932dce31d</data>
+    </edge>
+    <edge source="&quot;GEAR/PULLEY RATIO&quot;" target="&quot;VARIABLE FREQUENCY DRIVE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Gear/Pulley Ratio must be correct to ensure the Variable Frequency Drive does not cause overspeed and breakdown."</data>
+      <data key="d5">b4c77d7015bb6bbb077e8fd932dce31d</data>
+    </edge>
+    <edge source="&quot;THREADED LOCK RING&quot;" target="&quot;WELDING OR HEATING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Threaded Lock Ring's integrity can be compromised by Welding or Heating, affecting safety limits."</data>
+      <data key="d5">b4c77d7015bb6bbb077e8fd932dce31d</data>
+    </edge>
+    <edge source="&quot;CORROSION AND EROSION DAMAGE&quot;" target="&quot;ENTRAPMENT HAZARDS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Regular inspection for Corrosion and Erosion Damage is crucial to prevent Entrapment Hazards during maintenance."</data>
+      <data key="d5">b4c77d7015bb6bbb077e8fd932dce31d</data>
+    </edge>
+    <edge source="&quot;ENTRAPMENT HAZARDS&quot;" target="&quot;BURN HAZARD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Both Entrapment Hazards and Burn Hazard are safety events related to the operation and maintenance of machinery, indicating a need for safety precautions."</data>
+      <data key="d5">4e564d183dd0db033ce938e67ed1e1dc</data>
+    </edge>
+    <edge source="&quot;CORROSION HAZARD&quot;" target="&quot;CUT HAZARD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Corrosion Hazard and Cut Hazard are both safety events that require personal protective equipment and adherence to safety protocols."</data>
+      <data key="d5">4e564d183dd0db033ce938e67ed1e1dc</data>
+    </edge>
+    <edge source="&quot;SEPARATOR&quot;" target="&quot;VIBRATION SENSOR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The vibration sensor is part of the separator's monitoring system to detect vibrations."</data>
+      <data key="d5">9b889d215da39be72dfffee3487e8d8c</data>
+    </edge>
+    <edge source="&quot;SEPARATOR&quot;" target="&quot;SPEED SENSOR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The speed sensor is used to monitor the speed of the separator as part of its control systems."</data>
+      <data key="d5">9b889d215da39be72dfffee3487e8d8c</data>
+    </edge>
+    <edge source="&quot;SEPARATOR&quot;" target="&quot;THERMISTORS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Thermistors are used in the separator to provide protection against motor overload by detecting temperature changes."</data>
+      <data key="d5">9b889d215da39be72dfffee3487e8d8c</data>
+    </edge>
+    <edge source="&quot;SEPARATOR&quot;" target="&quot;PROCESS/SERVICE LIQUID MODULE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The process/service liquid module is a component that is directly associated with the separator, controlling the flow and supply of liquids."</data>
+      <data key="d5">9b889d215da39be72dfffee3487e8d8c</data>
+    </edge>
+    <edge source="&quot;SEPARATOR&quot;" target="&quot;CONTROL PANEL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The control panel, including the pneumatic unit and VFD, is used to operate and manage the separator."</data>
+      <data key="d5">a4d1da62d375c7956cd173e192672b4e</data>
+    </edge>
+    <edge source="&quot;SEPARATOR&quot;" target="&quot;OWMC&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"OWMC provides service and maintenance for the separator before its commissioning, indicating a direct relationship between the organization and the equipment."</data>
+      <data key="d5">00ed76604bb3d5c43d5427178783690d</data>
+    </edge>
+    <edge source="&quot;SEPARATOR&quot;" target="&quot;POWER SUPPLY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Separator's operation is dependent on the Power Supply having the right voltage and hertz as per its specifications."</data>
+      <data key="d5">346d2b675192cac14c3d1cabd2f2038e</data>
+    </edge>
+    <edge source="&quot;SEPARATOR&quot;" target="&quot;STAND STILL MODE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"In Stand Still Mode, the Separator is inactive with closed outlets and does not rotate, indicating a specific operational state."</data>
+      <data key="d5">346d2b675192cac14c3d1cabd2f2038e</data>
+    </edge>
+    <edge source="&quot;CONTROL PANEL&quot;" target="&quot;PNEUMATIC UNIT&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">The Control Panel and the Pneumatic Unit are integral components of a system designed to operate a separator. The Control Panel is specifically used to monitor the air pressure of the Pneumatic Unit during the power-on procedure. The Pneumatic Unit, on the other hand, is a crucial part of the Control Panel system, indicating that both entities are interdependent and essential for the proper functioning of the separator.</data>
+      <data key="d5">5ffe8b1e0bd815aed022924d2136a714,a4d1da62d375c7956cd173e192672b4e</data>
+    </edge>
+    <edge source="&quot;CONTROL PANEL&quot;" target="&quot;VARIABLE FREQUENCY DRIVE (VFD)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The variable frequency drive (VFD) is a component of the control panel system, which is integral to the operation of the separator."</data>
+      <data key="d5">a4d1da62d375c7956cd173e192672b4e</data>
+    </edge>
+    <edge source="&quot;CONTROL PANEL&quot;" target="&quot;CONTROL EQUIPMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The control equipment is part of the overall electrical and control system that includes the control panel, ensuring the proper functioning of the separator."</data>
+      <data key="d5">a4d1da62d375c7956cd173e192672b4e</data>
+    </edge>
+    <edge source="&quot;CONTROL PANEL&quot;" target="&quot;V370-1&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"V370-1 is a manual valve that is part of the pre-power on procedure controlled via the Control Panel."</data>
+      <data key="d5">5ffe8b1e0bd815aed022924d2136a714</data>
+    </edge>
+    <edge source="&quot;CONTROL PANEL&quot;" target="&quot;V401-2&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">The Control Panel is used to monitor or control the status of valve V401-2 as part of the operational procedure. Despite V401-2 being a manual valve, it is involved in the pre-power on procedure, which is overseen through the Control Panel.</data>
+      <data key="d5">1f186edce471037e8238d6cefededae6,5ffe8b1e0bd815aed022924d2136a714</data>
+    </edge>
+    <edge source="&quot;CONTROL PANEL&quot;" target="&quot;V401-1&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">The manual valve V401-1 is part of the pre-power on procedure and its status is monitored or controlled through the Control Panel. This operational procedure ensures that V401-1 is likely to be managed as part of the system's routine checks or adjustments via the Control Panel to maintain proper function and safety.</data>
+      <data key="d5">1f186edce471037e8238d6cefededae6,5ffe8b1e0bd815aed022924d2136a714</data>
+    </edge>
+    <edge source="&quot;CONTROL PANEL&quot;" target="&quot;OPERATOR PANEL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Control Panel and Operator Panel are both interfaces for controlling and monitoring the system, and may interact with each other in the operational process."</data>
+      <data key="d5">1f186edce471037e8238d6cefededae6</data>
+    </edge>
+    <edge source="&quot;PNEUMATIC UNIT&quot;" target="&quot;OPERATOR PANEL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Pneumatic Unit's air pressure status may be monitored or controlled via the Operator Panel as part of the operational procedure."</data>
+      <data key="d5">1f186edce471037e8238d6cefededae6</data>
+    </edge>
+    <edge source="&quot;WOOD AND CARDBOARD BOXES&quot;" target="&quot;PLASTICS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Both wood and cardboard boxes and plastics are mentioned as materials that can be recycled or used for energy recovery."</data>
+      <data key="d5">9aed884ce2b3a0f6a8aef5268d50b852</data>
+    </edge>
+    <edge source="&quot;PLASTICS&quot;" target="&quot;RUBBER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Both plastics and rubber are mentioned as materials that should be burnt at a licensed waste incineration plant."</data>
+      <data key="d5">9aed884ce2b3a0f6a8aef5268d50b852</data>
+    </edge>
+    <edge source="&quot;METAL STRAPS&quot;" target="&quot;BEARINGS AND OTHER METAL PARTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Both metal straps and bearings and other metal parts are mentioned as items that should be sent for material recycling."</data>
+      <data key="d5">9aed884ce2b3a0f6a8aef5268d50b852</data>
+    </edge>
+    <edge source="&quot;SEAL RINGS AND FRICTION LININGS&quot;" target="&quot;ELECTRONIC PARTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Both seal rings and friction linings and electronic parts are mentioned as items that should be disposed of properly, with electronic parts specifically being recycled."</data>
+      <data key="d5">9aed884ce2b3a0f6a8aef5268d50b852</data>
+    </edge>
+    <edge source="&quot;EQUIPMENT&quot;" target="&quot;SEPARATION SYSTEM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The separation system includes equipment that can cause burns, indicating a need for safety measures like warning signs."</data>
+      <data key="d5">480e7d22fdbef7a752697512cbe76b54</data>
+    </edge>
+    <edge source="&quot;EQUIPMENT&quot;" target="&quot;SENSORS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sensors are a part of the equipment that need to function correctly for safety, requiring regular checks."</data>
+      <data key="d5">480e7d22fdbef7a752697512cbe76b54</data>
+    </edge>
+    <edge source="&quot;OPERATING WATER MODULE&quot;" target="&quot;OPERATING WATER SYSTEM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Both the operating water module and operating water system are parts of the equipment that need to be drained of water before storage."</data>
+      <data key="d5">9aed884ce2b3a0f6a8aef5268d50b852</data>
+    </edge>
+    <edge source="&quot;OPERATING WATER MODULE&quot;" target="&quot;TEMPERATURE: +10C / +50C&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Operating Water Module should be stored in an area with the recommended temperature range of +10C to +50C."</data>
+      <data key="d5">65e02ff611250523115fc00779cc6769</data>
+    </edge>
+    <edge source="&quot;OPERATING WATER MODULE&quot;" target="&quot;HUMIDITY: &lt; 85%&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Operating Water Module should be stored in an area with humidity levels below 85%."</data>
+      <data key="d5">65e02ff611250523115fc00779cc6769</data>
+    </edge>
+    <edge source="&quot;OPERATING WATER SYSTEM&quot;" target="&quot;COOLING JACKETS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Both the operating water system and cooling jackets are components that need to be drained of water before storage."</data>
+      <data key="d5">9aed884ce2b3a0f6a8aef5268d50b852</data>
+    </edge>
+    <edge source="&quot;OPERATING WATER SYSTEM&quot;" target="&quot;TEMPERATURE: +10C / +50C&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Operating Water System should be stored in an area with the recommended temperature range of +10C to +50C."</data>
+      <data key="d5">65e02ff611250523115fc00779cc6769</data>
+    </edge>
+    <edge source="&quot;OPERATING WATER SYSTEM&quot;" target="&quot;HUMIDITY: &lt; 85%&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Operating Water System should be stored in an area with humidity levels below 85%."</data>
+      <data key="d5">65e02ff611250523115fc00779cc6769</data>
+    </edge>
+    <edge source="&quot;COOLING JACKETS&quot;" target="&quot;TEMPERATURE: +10C / +50C&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cooling Jackets should be stored in an area with the recommended temperature range of +10C to +50C."</data>
+      <data key="d5">65e02ff611250523115fc00779cc6769</data>
+    </edge>
+    <edge source="&quot;COOLING JACKETS&quot;" target="&quot;HUMIDITY: &lt; 85%&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cooling Jackets should be stored in an area with humidity levels below 85%."</data>
+      <data key="d5">65e02ff611250523115fc00779cc6769</data>
+    </edge>
+    <edge source="&quot;LOCAL SAFETY REGULATIONS&quot;" target="&quot;RESPONSIBLE AUTHORITIES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Local safety regulations are enforced by responsible authorities who inspect and approve installations."</data>
+      <data key="d5">9d42ca5b26ee287d4aa3c467961035d8</data>
+    </edge>
+    <edge source="&quot;EU&quot;" target="&quot;AUTHORIZED ELECTRICIANS AND PERSONNEL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Authorized electricians and personnel must ensure that the machine meets the conditions of the EU guidelines before start-up."</data>
+      <data key="d5">cc9b1ca05a577a62801b2b350df1f662</data>
+    </edge>
+    <edge source="&quot;EU&quot;" target="&quot;CONTROL CABINET&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The control cabinet's specifications must comply with EU guidelines as part of the electrical installation process."</data>
+      <data key="d5">cc9b1ca05a577a62801b2b350df1f662</data>
+    </edge>
+    <edge source="&quot;EU&quot;" target="&quot;MACHINE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The machine must meet the conditions of the EU guidelines before start-up, indicating a regulatory relationship."</data>
+      <data key="d5">19922e809822acabceb4c04ed88af844</data>
+    </edge>
+    <edge source="&quot;CIP&quot;" target="&quot;SYSTEM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Internal cleaning of the system is followed by CIP, showing a procedural relationship."</data>
+      <data key="d5">19922e809822acabceb4c04ed88af844</data>
+    </edge>
+    <edge source="&quot;CIP&quot;" target="&quot;DISCHARGE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"During CIP, a solid DISCHARGE can be initiated in a manner similar to that during PRODUCTION."</data>
+      <data key="d5">5de70f09dcbc6ed3581a186cb4b8e45f</data>
+    </edge>
+    <edge source="&quot;CIP&quot;" target="&quot;STANDBY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"CIP mode is an option that can be selected from the STANDBY mode in the operating routine."</data>
+      <data key="d5">d25da374bc1f3686f5c091bfa2c61f83</data>
+    </edge>
+    <edge source="&quot;CIP&quot;" target="&quot;AUTO MODE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"CIP is a preset operational mode for cleaning that can be regulated in AUTO mode."</data>
+      <data key="d5">90bbc022642045b3f3e81584019297bc</data>
+    </edge>
+    <edge source="&quot;CIP&quot;" target="&quot;MANUAL MODE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"CIP mode's set point can be manually adjusted in Manual mode."</data>
+      <data key="d5">90bbc022642045b3f3e81584019297bc</data>
+    </edge>
+    <edge source="&quot;CIP&quot;" target="&quot;OPEN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"CIP mode is contrasted with OPEN mode, where the output is set to 100% regardless of the preset value."</data>
+      <data key="d5">90bbc022642045b3f3e81584019297bc</data>
+    </edge>
+    <edge source="&quot;CIP&quot;" target="&quot;PRODUCTION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Both PRODUCTION and CIP are preset operation modes with specific set points in the control system."</data>
+      <data key="d5">ea829825a6379229d8827c222ce55681</data>
+    </edge>
+    <edge source="&quot;PLANT OPERATOR&quot;" target="&quot;INSTALLATION, MAINTENANCE AND LIFTING INSTRUCTIONS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Plant Operator would likely follow the 'Installation, Maintenance and Lifting Instructions' provided, which may include guidelines from Alfa Laval."</data>
+      <data key="d5">7f8597c9687fb8c39f1df99055763b63</data>
+    </edge>
+    <edge source="&quot;INSTALLATION, MAINTENANCE AND LIFTING INSTRUCTIONS&quot;" target="&quot;AUXILIARY EQUIPMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 'Installation, Maintenance and Lifting Instructions' likely contain guidelines for the installation of 'Auxiliary Equipment', indicating a direct relationship between the document and the process."</data>
+      <data key="d5">7f8597c9687fb8c39f1df99055763b63</data>
+    </edge>
+    <edge source="&quot;VALVE MODULES&quot;" target="&quot;SEPARATION SYSTEM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Valve modules are part of the separation system and need to be installed with consideration for the layout drawing."</data>
+      <data key="d5">480e7d22fdbef7a752697512cbe76b54</data>
+    </edge>
+    <edge source="&quot;PIPE-WORK&quot;" target="&quot;SEPARATION SYSTEM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The pipe-work is directly connected to the separation system and must be designed to prevent vibration transmission."</data>
+      <data key="d5">480e7d22fdbef7a752697512cbe76b54</data>
+    </edge>
+    <edge source="&quot;MODULES AND UNITS&quot;" target="&quot;STARTING EQUIPMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Modules and units may be related to the starting equipment as both involve electrical connections and safety considerations."</data>
+      <data key="d5">480e7d22fdbef7a752697512cbe76b54</data>
+    </edge>
+    <edge source="&quot;OWMC&quot;" target="&quot;MECHANICAL COMPLETION&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">OWMC provides essential pre-commissioning services that are a prerequisite for the Mechanical Completion of the separator system. Their services are considered a critical part of the Mechanical Completion process for the separator, ensuring that the system is ready for commissioning.</data>
+      <data key="d5">00ed76604bb3d5c43d5427178783690d,a65970b85bfe5c465ef708c0dddd9400</data>
+    </edge>
+    <edge source="&quot;MECHANICAL COMPLETION&quot;" target="&quot;SAT INSTALLATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mechanical Completion is verified by checking all points mentioned in SAT Installation."</data>
+      <data key="d5">a65970b85bfe5c465ef708c0dddd9400</data>
+    </edge>
+    <edge source="&quot;MECHANICAL COMPLETION&quot;" target="&quot;SEPARATOR&#8217;S SERVICE AND MAINTENANCE MANUAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Separator&#8217;s Service and Maintenance Manual provides necessary instructions for Mechanical Completion."</data>
+      <data key="d5">a65970b85bfe5c465ef708c0dddd9400</data>
+    </edge>
+    <edge source="&quot;PRE-COMMISSIONING&quot;" target="&quot;SAT INSTALLATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Pre-commissioning readiness is verified by checking all points mentioned in SAT Installation."</data>
+      <data key="d5">a65970b85bfe5c465ef708c0dddd9400</data>
+    </edge>
+    <edge source="&quot;PRE-COMMISSIONING&quot;" target="&quot;SOLIDS PUMP MANUAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Solids Pump Manual provides necessary instructions and lubricant recommendations for Pre-commissioning."</data>
+      <data key="d5">a65970b85bfe5c465ef708c0dddd9400</data>
+    </edge>
+    <edge source="&quot;STAND STILL MODE&quot;" target="&quot;STOP MODE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"If the Separator is in Stop Mode and 0 RPM is detected for 30 seconds, it transitions to Stand Still Mode."</data>
+      <data key="d5">346d2b675192cac14c3d1cabd2f2038e</data>
+    </edge>
+    <edge source="&quot;STAND STILL&quot;" target="&quot;SAFETY CHECK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Safety Check is a mandatory procedure that occurs during the STAND STILL mode before the separator can start."</data>
+      <data key="d5">ba4f4af82e9ed0db923665026353b345</data>
+    </edge>
+    <edge source="&quot;STAND STILL&quot;" target="&quot;START&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The system can transition from STAND STILL to START if no start blocking is active and the safety check is passed."</data>
+      <data key="d5">ba4f4af82e9ed0db923665026353b345</data>
+    </edge>
+    <edge source="&quot;STAND STILL&quot;" target="&quot;STOP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The STOP event leads to the STAND STILL state once the separator bowl has stopped rotating."</data>
+      <data key="d5">87f09f4a6b5dcc0bf841590ce15cce50</data>
+    </edge>
+    <edge source="&quot;START&quot;" target="&quot;STOP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The STOP function can be selected to halt the separator during the START process."</data>
+      <data key="d5">ba4f4af82e9ed0db923665026353b345</data>
+    </edge>
+    <edge source="&quot;START&quot;" target="&quot;STANDBY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"After START, the system can transition to STANDBY mode where the separator runs at full speed in a waiting state."</data>
+      <data key="d5">0dd41e140364139ed1f66deeabdf50c6</data>
+    </edge>
+    <edge source="&quot;STOP&quot;" target="&quot;STANDBY&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">When the system is in the START phase and the "STOP" command is selected, it will automatically transition to the "STANDBY" mode once the bowl speed is achieved. Conversely, the system will shift from "STANDBY" to "STOP" mode if specific conditions are fulfilled, such as the elapse of a predefined time period, indicated by the condition P1027.</data>
+      <data key="d5">5de70f09dcbc6ed3581a186cb4b8e45f,ba4f4af82e9ed0db923665026353b345</data>
+    </edge>
+    <edge source="&quot;STOP&quot;" target="&quot;ALARM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 'Stop' event is related to the 'Alarm' event as it includes the alarm being triggered and the system changing to STOP mode."</data>
+      <data key="d5">3ed2e8b7172fcbc49574f825f6cf127b</data>
+    </edge>
+    <edge source="&quot;STANDBY&quot;" target="&quot;PRODUCTION&quot;">
+      <data key="d3">3.0</data>
+      <data key="d4">The system has two distinct operational modes: STANDBY and PRODUCTION. When the system is in STANDBY mode, it is primed to transition to PRODUCTION mode, which is the state where actual processing of the product takes place. To initiate this transition, PRODUCTION mode can be selected from STANDBY mode, indicating a change in the system's operational state. This selection is part of the operating routine, allowing the system to move from a preparatory phase in STANDBY to active processing in PRODUCTION.</data>
+      <data key="d5">0dd41e140364139ed1f66deeabdf50c6,498742c201c28da38e46df0a549e9d1e,d25da374bc1f3686f5c091bfa2c61f83</data>
+    </edge>
+    <edge source="&quot;STANDBY&quot;" target="&quot;SEPARATOR MOTOR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Separator Motor's power consumption affects the system's state, which can lead to entering STANDBY mode if there are discharge issues."</data>
+      <data key="d5">122b3226e8d1bed0b3226f9dc04a2b57</data>
+    </edge>
+    <edge source="&quot;PRODUCTION&quot;" target="&quot;DISCHARGE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"During PRODUCTION, a solid DISCHARGE can be initiated either manually or automatically."</data>
+      <data key="d5">5de70f09dcbc6ed3581a186cb4b8e45f</data>
+    </edge>
+    <edge source="&quot;PRODUCTION&quot;" target="&quot;AUTO MODE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"PRODUCTION is a preset operational mode that can be regulated in AUTO mode."</data>
+      <data key="d5">90bbc022642045b3f3e81584019297bc</data>
+    </edge>
+    <edge source="&quot;PRODUCTION&quot;" target="&quot;MANUAL MODE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"PRODUCTION mode's set point can be manually adjusted in Manual mode."</data>
+      <data key="d5">90bbc022642045b3f3e81584019297bc</data>
+    </edge>
+    <edge source="&quot;PRODUCTION&quot;" target="&quot;OPEN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"PRODUCTION mode is contrasted with OPEN mode, where the output is set to 100% regardless of the preset value."</data>
+      <data key="d5">90bbc022642045b3f3e81584019297bc</data>
+    </edge>
+    <edge source="&quot;P222-1&quot;" target="&quot;P109&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The running time of the solids pump P222-1 is determined by the setting in P109."</data>
+      <data key="d5">87f09f4a6b5dcc0bf841590ce15cce50</data>
+    </edge>
+    <edge source="&quot;EMERGENCY STOP&quot;" target="&quot;A42 EMERGENCY STOP ACTIVATED&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The EMERGENCY STOP event triggers the A42 Emergency stop activated alarm."</data>
+      <data key="d5">87f09f4a6b5dcc0bf841590ce15cce50</data>
+    </edge>
+    <edge source="&quot;EMERGENCY STOP MODE&quot;" target="&quot;NORMAL STOP SEQUENCE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Emergency Stop Mode must be reset to reach the Normal Stop Sequence."</data>
+      <data key="d5">5ffe8b1e0bd815aed022924d2136a714</data>
+    </edge>
+    <edge source="&quot;SEPARATOR CONTROL SYSTEM&quot;" target="&quot;INSTALLATION MANUAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Separator Control System should be operated according to the instructions in the Installation Manual."</data>
+      <data key="d5">5ffe8b1e0bd815aed022924d2136a714</data>
+    </edge>
+    <edge source="&quot;SEPARATOR CONTROL SYSTEM&quot;" target="&quot;ELECTRICAL DRAWING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Separator Control System's electrical connections are detailed in the Electrical Drawing."</data>
+      <data key="d5">5ffe8b1e0bd815aed022924d2136a714</data>
+    </edge>
+    <edge source="&quot;SEPARATOR CONTROL SYSTEM&quot;" target="&quot;CONNECTION LIST&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Separator Control System's connections are specified in the Connection List."</data>
+      <data key="d5">5ffe8b1e0bd815aed022924d2136a714</data>
+    </edge>
+    <edge source="&quot;OPERATOR PANEL&quot;" target="&quot;ALARM DIAGRAM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Operator Panel displays alarm messages that can be cross-referenced with the Alarm Diagram for troubleshooting."</data>
+      <data key="d5">1f186edce471037e8238d6cefededae6</data>
+    </edge>
+    <edge source="&quot;OPERATOR PANEL&quot;" target="&quot;SEPARATOR MOTOR&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">The Operator Panel is responsible for managing the power to the Separator Motor. It facilitates the starting and stopping of the Separator Motor's operation. When the START mode is selected on the Operator Panel, the Separator Motor begins running, indicating that the control of the motor is directly linked to the functions provided by the Operator Panel.</data>
+      <data key="d5">1f186edce471037e8238d6cefededae6,498742c201c28da38e46df0a549e9d1e</data>
+    </edge>
+    <edge source="&quot;FLOW CONTROL&quot;" target="&quot;FCV201&#8211;1&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Valve FCV201&#8211;1 is part of the Flow Control process, being one of the means to control the flow rate."</data>
+      <data key="d5">12db7bb38a95d1d51e716d11e1ab2f24</data>
+    </edge>
+    <edge source="&quot;FLOW CONTROL&quot;" target="&quot;FIT201-1&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"FIT201-1 is involved in the Flow Control process, as it provides actual feed flow rate data."</data>
+      <data key="d5">12db7bb38a95d1d51e716d11e1ab2f24</data>
+    </edge>
+    <edge source="&quot;AUTO MODE&quot;" target="&quot;PID-PARAMETERS&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">In AUTO Mode, the control system utilizes the PID-Parameters to regulate the system according to the set point. These PID-parameters are specifically adjusted to ensure that the system operates efficiently in AUTO mode.</data>
+      <data key="d5">90bbc022642045b3f3e81584019297bc,ea829825a6379229d8827c222ce55681</data>
+    </edge>
+    <edge source="&quot;MANUAL MODE&quot;" target="&quot;FACEPLATE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"In Manual Mode, equipment can be checked and adjusted using the faceplate."</data>
+      <data key="d5">ea829825a6379229d8827c222ce55681</data>
+    </edge>
+    <edge source="&quot;MANUAL MODE&quot;" target="&quot;OPEN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"OPEN is a specific setting within Manual Mode where the output is fully opened to 100%."</data>
+      <data key="d5">ea829825a6379229d8827c222ce55681</data>
+    </edge>
+    <edge source="&quot;PID-PARAMETERS&quot;" target="&quot;BACKPRESSURE CONTROL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"PID-parameters are used to adjust the controller function for Backpressure control."</data>
+      <data key="d5">90bbc022642045b3f3e81584019297bc</data>
+    </edge>
+    <edge source="&quot;PID-PARAMETERS&quot;" target="&quot;PID TAB&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The PID Tab provides access to the PID-Parameters for adjustment."</data>
+      <data key="d5">ea829825a6379229d8827c222ce55681</data>
+    </edge>
+    <edge source="&quot;PID-PARAMETERS&quot;" target="&quot;SHOW TREND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Show Trend feature may be used to visualize the effects of PID-Parameters adjustments on backpressure."</data>
+      <data key="d5">ea829825a6379229d8827c222ce55681</data>
+    </edge>
+    <edge source="&quot;SHOW TREND&quot;" target="&quot;BACKPRESSURE CONTROL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Show Trend function can display the flow trend related to Backpressure control."</data>
+      <data key="d5">90bbc022642045b3f3e81584019297bc</data>
+    </edge>
+    <edge source="&quot;OUTPUT TEST&quot;" target="&quot;I/O-LIST&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Output Test function is used to change the status of output signals as detailed in the I/O-List."</data>
+      <data key="d5">ea829825a6379229d8827c222ce55681</data>
+    </edge>
+    <edge source="&quot;ALARM&quot;" target="&quot;ST DRY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 'St Dry' event is related to the 'Alarm' event as it includes the alarm being triggered and the system changing to STANDBY DRY mode."</data>
+      <data key="d5">3ed2e8b7172fcbc49574f825f6cf127b</data>
+    </edge>
+    <edge source="&quot;ALARM&quot;" target="&quot;START BLOCKING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 'Start Blocking' event is related to the 'Alarm' event because it results in an alarm being displayed when the START command is refused."</data>
+      <data key="d5">3ed2e8b7172fcbc49574f825f6cf127b</data>
+    </edge>
+    <edge source="&quot;ALARM&quot;" target="&quot;ALARM OVERRIDE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 'Alarm Override' event is related to the 'Alarm' event because it allows certain alarms to be overridden, affecting the system's response to alarms."</data>
+      <data key="d5">3ed2e8b7172fcbc49574f825f6cf127b</data>
+    </edge>
+    <edge source="&quot;DANFOSS&quot;" target="&quot;VLT FC302&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Danfoss is the manufacturer of the VLT FC302, a specific model of VFD with detailed parameters in the document."</data>
+      <data key="d5">dff0ca60c0f43fb6117c39f4769b187b</data>
+    </edge>
+    <edge source="&quot;VLT FC302&quot;" target="&quot;INSTALLATION AND SETUP INFORMATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The VLT FC302 model's parameters are part of the Installation and Setup Information provided in the document."</data>
+      <data key="d5">dff0ca60c0f43fb6117c39f4769b187b</data>
+    </edge>
+    <edge source="&quot;MOTOR&quot;" target="&quot;TERMINAL 53&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Terminal 53 is a part of the Motor's technology system, indicating a direct relationship between the component and the Motor."</data>
+      <data key="d5">be9e7a8988ef9eb130edf8c185b1a483</data>
+    </edge>
+    <edge source="&quot;MOTOR&quot;" target="&quot;TERMINAL 42&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Terminal 42 is a part of the Motor's technology system, indicating a direct relationship between the component and the Motor."</data>
+      <data key="d5">be9e7a8988ef9eb130edf8c185b1a483</data>
+    </edge>
+    <edge source="&quot;MOTOR&quot;" target="&quot;TERMINAL 29&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Terminal 29 is a part of the Motor's technology system, indicating a direct relationship between the component and the Motor."</data>
+      <data key="d5">be9e7a8988ef9eb130edf8c185b1a483</data>
+    </edge>
+    <edge source="&quot;MOTOR&quot;" target="&quot;TERMINAL 19&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Terminal 19 is a part of the Motor's technology system, indicating a direct relationship between the component and the Motor."</data>
+      <data key="d5">be9e7a8988ef9eb130edf8c185b1a483</data>
+    </edge>
+    <edge source="&quot;MOTOR&quot;" target="&quot;TERMINAL 27&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Terminal 27 is a part of the Motor's technology system, indicating a direct relationship between the component and the Motor."</data>
+      <data key="d5">be9e7a8988ef9eb130edf8c185b1a483</data>
+    </edge>
+    <edge source="&quot;MOTOR&quot;" target="&quot;SWITCH A53&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Switch A53 is related to the Motor's technology system, indicating a direct relationship between the switch and the Motor."</data>
+      <data key="d5">be9e7a8988ef9eb130edf8c185b1a483</data>
+    </edge>
+    <edge source="&quot;MOTOR&quot;" target="&quot;SWITCH A54&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Switch A54 is related to the Motor's technology system, indicating a direct relationship between the switch and the Motor."</data>
+      <data key="d5">be9e7a8988ef9eb130edf8c185b1a483</data>
+    </edge>
+    <edge source="&quot;AMA (AUTOMATED MOTOR ADAPTION)&quot;" target="&quot;SPEED CONVERTER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The AMA process likely involves the Speed Converter as it relates to motor settings and adaptations."</data>
+      <data key="d5">f5514a4a84bb254d2082f8f243b761b6</data>
+    </edge>
+    <edge source="&quot;ALFA LAVAL SERVICE&quot;" target="&quot;SPARE PARTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alfa Laval Service is the provider for ordering Spare parts, indicating a direct relationship between the service and the components."</data>
+      <data key="d5">f81dd94fde1b5fcdb2103928a6e9a735</data>
+    </edge>
+  </graph>
+</graphml>

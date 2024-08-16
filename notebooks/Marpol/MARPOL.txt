@@ -1,0 +1,283 @@
+GPT-4o MARPOL.pdf
+
+---
+
+**International Maritime Organization (IMO)  
+MARPOL Consolidated Edition 2022 Edition, AS AMENDED**
+
+---
+
+**CONTENTS**
+
+- MARPOL ANNEX I ............................................................................................ 1
+- MARPOL ANNEX II .......................................................................................... 172
+- MARPOL ANNEX III ......................................................................................... 239
+- MARPOL ANNEX IV ......................................................................................... 246
+- MARPOL ANNEX V .......................................................................................... 270
+- MARPOL ANNEX VI ......................................................................................... 292
+
+---
+
+### MARPOL ANNEX I
+**REGULATIONS FOR THE PREVENTION OF POLLUTION BY OIL**
+
+#### DOCUMENT HISTORY
+This document is a consolidation of official IMO documents, which are available for public use. This consolidation is not sanctioned by the IMO but complies with the requirements of MSC-MEPC.2/Circ.2 relating to the carriage of publications on board ships.
+
+#### Regulation 1: Definitions
+1. Oil means petroleum in any form including crude oil, fuel oil, sludge, oil refuse, and refined products.
+2. Crude oil means any liquid hydrocarbon mixture occurring naturally in the earth.
+3. Oily mixture means a mixture with any oil content.
+4. Oil fuel means any oil used as fuel in connection with the propulsion and auxiliary machinery of the ship.
+5. Oil tanker means a ship constructed or adapted primarily to carry oil in bulk in its cargo spaces.
+6. Crude oil tanker means an oil tanker engaged in the trade of carrying crude oil.
+7. Product carrier means an oil tanker engaged in the trade of carrying oil other than crude oil.
+8. Combination carrier means a ship designed to carry either oil or solid cargoes in bulk.
+9. Major conversion means a conversion of a ship that substantially alters its dimensions or carrying capacity.
+10. Nearest land means from the baseline from which the territorial sea of the territory in question is established.
+11. Special area means a sea area where special mandatory methods for the prevention of sea pollution by oil are required.
+12. Instantaneous rate of discharge of oil content means the rate of discharge of oil in liters per hour divided by the speed of the ship in knots.
+13. Tank means an enclosed space designed for the carriage of liquid in bulk.
+14. Wing tank means any tank adjacent to the side shell plating.
+15. Centre tank means any tank inboard of a longitudinal bulkhead.
+16. Slop tank means a tank specifically designated for the collection of tank drainings, tank washings, and other oily mixtures.
+17. Clean ballast means the ballast in a tank that has been cleaned to ensure no visible traces of oil.
+18. Segregated ballast means ballast water introduced into a tank completely separated from the cargo oil and oil fuel system.
+19. Length (L) means 96% of the total length on a waterline at 85% of the least molded depth.
+20. Forward and after perpendiculars shall be taken at the forward and after ends of the length (L).
+21. Amidships is at the middle of the length (L).
+22. Breadth (B) means the maximum breadth of the ship.
+23. Deadweight (DW) means the difference in tons between the displacement of a ship in water and the lightweight of the ship.
+24. Lightweight means the displacement of a ship without cargo, fuel, lubricating oil, ballast water, fresh water and feed water in tanks, consumable stores, and passengers and crew and their effects.
+25. Permeability of a space means the ratio of the volume within that space which is assumed to be occupied by water.
+26. Volumes and areas in a ship shall be calculated in all cases to molded lines.
+27. Anniversary date means the day and month of each year corresponding to the date of expiry of the International Oil Pollution Prevention Certificate.
+28.1 Ship delivered on or before 31 December 1979 means a ship for which the building contract is placed on or before 31 December 1975.
+28.2 Ship delivered after 31 December 1979 means a ship for which the building contract is placed after 31 December 1975.
+28.3 Oil tanker delivered on or before 1 June 1982 means an oil tanker for which the building contract is placed on or before 1 June 1979.
+28.4 Oil tanker delivered after 1 June 1982 means an oil tanker for which the building contract is placed after 1 June 1979.
+28.5 Oil tanker delivered before 6 July 1996 means an oil tanker for which the building contract is placed before 6 July 1993.
+28.6 Oil tanker delivered on or after 6 July 1996 means an oil tanker for which the building contract is placed on or after 6 July 1993.
+28.7 Oil tanker delivered on or after 1 February 2002 means an oil tanker for which the building contract is placed on or after 1 February 1999.
+28.8 Oil tanker delivered on or after 1 January 2010 means an oil tanker for which the building contract is placed on or after 1 January 2007.
+28.9 Ship delivered on or after 1 August 2010 means a ship for which the building contract is placed on or after 1 August 2007.
+29. Parts per million (ppm) means parts of oil per million parts of water by volume.
+30. Constructed means a ship the keel of which is laid or which is at a similar stage of construction.
+31. Oil residue (sludge) means the residual waste oil products generated during the normal operation of a ship.
+32. Oil residue (sludge) tank means a tank which holds oil residue (sludge) from which sludge may be disposed directly through the standard discharge connection or any other approved means of disposal.
+33. Oily bilge water means water which may be contaminated by oil resulting from things such as leakage or maintenance work in machinery spaces.
+34. Oily bilge water holding tank means a tank collecting oily bilge water prior to its discharge, transfer or disposal.
+35. Audit means a systematic, independent and documented process for obtaining audit evidence and evaluating it objectively.
+36. Audit Scheme means the IMO Member State Audit Scheme established by the Organization.
+37. Code for Implementation means the IMO Instruments Implementation Code (III Code) adopted by the Organization.
+38. Audit Standard means the Code for Implementation.
+39. Electronic Record Book means a device or system, approved by the Administration, used to electronically record the required entries for discharges, transfers and other operations.
+40. Unmanned non-self-propelled (UNSP) barge means a barge that:
+  .1 is not propelled by mechanical means;
+  .2 carries no oil;
+  .3 has no machinery fitted that may use oil or generate oil residue;
+  .4 has no oil fuel tank, lubricating oil tank, oily bilge water holding tank and oil residue tank;
+  .5 has neither persons nor living animals on board.
+
+#### Regulation 2: Application
+1. Unless expressly provided otherwise, the provisions of this Annex shall apply to all ships.
+2. In ships other than oil tankers fitted with cargo spaces which are constructed and utilized to carry oil in bulk of an aggregate capacity of 200 cubic meters or more, the requirements of regulations 16, 26.4, 29, 30, 31, 32, 34 and 36 of this Annex for oil tankers shall also apply to the construction and operation of those spaces.
+3. Where a cargo subject to the provisions of Annex II of the present Convention is carried in a cargo space of an oil tanker, the appropriate requirements of Annex II of the present Convention shall also apply.
+4. The requirements of regulations 29, 31 and 32 of this Annex shall not apply to oil tankers carrying asphalt or other products which through their physical properties inhibit effective product/water separation and monitoring.
+5. Regulations 18.6 to 18.8 of this Annex shall not apply to an oil tanker delivered on or before 1 June 1982, solely engaged in specific trades between ports or terminals within a State Party to the present Convention.
+6. The provisions of paragraph 5 of this regulation shall only apply when the ports or terminals where cargo is loaded on such voyages are provided with reception facilities adequate for the reception and treatment of all the ballast and tank washing water from oil tankers using them and all the following conditions are complied with:
+  .1 All ballast water, including clean ballast water, and tank washing residues are retained on board and transferred to the reception facilities.
+  .2 Agreement has been reached between the Administration and the Governments of the Port States concerning the use of an oil tanker for a specific trade.
+  .3 The adequacy of the reception facilities is approved by the Governments of the States Parties to the present Convention.
+  .4 The International Oil Pollution Prevention Certificate is endorsed to the effect that the oil tanker is solely engaged in such specific trade.
+
+#### Regulation 3: Exemptions and waivers
+1. Any ship whose constructional features render the application of any of the provisions of chapters 3 and 4 of this Annex or section 1.2 of part II-A of the Polar Code unreasonable or impracticable may be exempted by the Administration from such provisions.
+2. Particulars of any such exemption shall be indicated in the Certificate referred to in regulation 7 of this Annex.
+3. The Administration which allows any such exemption shall communicate to the Organization particulars of same and the reasons therefore.
+4. The Administration may waive the requirements of regulations 29, 31 and 32 of this Annex, for any oil tanker which engages exclusively on voyages both of 72 hours or less in duration and within 50 nautical miles from the nearest land.
+5. The Administration may waive the requirements of regulations 31 and 32 of this Annex for oil tankers other than those referred to in paragraph 4 of this regulation in cases where:
+.1 The tanker is an oil tanker delivered on or before 1 June 1982, solely engaged in specific trades.
+.2 The tanker is engaged exclusively in one or more of the following categories of voyages:
+.1 Voyages within special areas;
+.2 Voyages within Arctic waters;
+.3 Voyages within 50 nautical miles from the nearest land outside special areas.
+The Administration may waive the requirements of regulation 28(6) for the following oil tankers if loaded in accordance with the conditions approved by the Administration taking into account the guidelines developed by the Organization:
+.1 Oil tankers on a dedicated service.
+.2 Oil tankers where stability verification is made remotely by a means approved by the Administration.
+.3 Oil tankers which are loaded within an approved range of loading conditions.
+.4 Oil tankers constructed before 1 January 2016 provided with approved limiting KG/GM curves covering all applicable intact and damage stability requirements.
+The Administration may exempt a UNSP barge from the requirements of regulations 6.1 and 7.1 of this Annex, by an International Oil Pollution Prevention Exemption Certificate for Unmanned Non-self-propelled Barges, for a period not exceeding five years provided that the UNSP barge has undergone a survey to confirm that the conditions referred to in regulations 1.40.1 to 1.40.5 of this Annex are met.
+Regulation 4: Exceptions
+Regulations 15 and 34 of this Annex and paragraph 1.1.1 of part II-A of the Polar Code shall not apply to:
+.1 The discharge into the sea of oil or oily mixture necessary for the purpose of securing the safety of a ship or saving life at sea.
+.2 The discharge into the sea of oil or oily mixture resulting from damage to a ship or its equipment.
+.3 The discharge into the sea of substances containing oil, approved by the Administration, when being used for the purpose of combating specific pollution incidents in order to minimize the damage from pollution.
+Regulation 5: Equivalents
+The Administration may allow any fitting, material, appliance or apparatus to be fitted in a ship as an alternative to that required by this Annex if such fitting, material, appliance or apparatus is at least as effective as that required by this Annex.
+The Administration which allows a fitting, material, appliance or apparatus to be fitted in a ship as an alternative to that required by this Annex shall communicate particulars thereof to the Organization.
+Regulation 6: Surveys
+Every oil tanker of 150 gross tonnage and above, and every other ship of 400 gross tonnage and above shall be subject to the surveys specified below:
+.1 An initial survey before the ship is put in service or before the Certificate required under regulation 7 of this Annex is issued for the first time.
+.2 A renewal survey at intervals specified by the Administration, but not exceeding 5 years.
+.3 An intermediate survey within 3 months before or after the second anniversary date or within 3 months before or after the third anniversary date of the Certificate.
+.4 An annual survey within 3 months before or after each anniversary date of the Certificate.
+.5 An additional survey either general or partial, according to the circumstances, after a repair resulting from investigations prescribed in paragraph 4.3 of this regulation.
+The Administration shall establish appropriate measures for ships which are not subject to the provisions of paragraph 1 of this regulation in order to ensure that the applicable provisions of this Annex are complied with.
+3.1 Surveys of ships as regards the enforcement of the provisions of this Annex shall be carried out by officers of the Administration.
+3.2 An Administration nominating surveyors or recognizing organizations to conduct surveys shall empower any nominated surveyor or recognized organization to:
+.1 Require repairs to a ship.
+.2 Carry out surveys, if requested by the appropriate authorities of a port State.
+3.3 When a nominated surveyor or recognized organization determines that the condition of the ship or its equipment does not correspond substantially with the particulars of the Certificate, such surveyor or organization shall immediately ensure that corrective action is taken.
+4.1 The condition of the ship and its equipment shall be maintained to conform with the provisions of the present Convention.
+4.2 After any survey of the ship has been completed, no change shall be made in the structure, equipment, systems, fittings, arrangements or material covered by the survey, without the sanction of the Administration.
+4.3 Whenever an accident occurs to a ship or a defect is discovered which substantially affects the integrity of the ship, the master or owner of the ship shall report at the earliest opportunity to the Administration.
+Regulation 7: Issue or endorsement of certificate
+An International Oil Pollution Prevention Certificate shall be issued after an initial or renewal survey to any oil tanker of 150 gross tonnage and above and any other ships of 400 gross tonnage and above.
+Such certificate shall be issued or endorsed either by the Administration or by any persons or organization duly authorized by it.
+Regulation 8: Issue or endorsement of certificate by another Government
+The Government of a Party to the present Convention may, at the request of the Administration, cause a ship to be surveyed and, if satisfied that the provisions of this Annex are complied with, shall issue or authorize the issue of an International Oil Pollution Prevention Certificate to the ship.
+A copy of the certificate and a copy of the survey report shall be transmitted as soon as possible to the requesting Administration.
+A certificate so issued shall contain a statement to the effect that it has been issued at the request of the Administration.
+No International Oil Pollution Prevention Certificate or UNSP Exemption Certificate shall be issued to a ship which is entitled to fly the flag of a State which is not a Party.
+Regulation 9: Form of certificate
+The International Oil Pollution Prevention Certificate shall be drawn up in the form corresponding to the model given in appendix II to this Annex.
+The International Oil Pollution Prevention Exemption Certificate for Unmanned Non-self-propelled Barges shall be drawn up in the form corresponding to the model given in appendix IV to this Annex.
+Regulation 10: Duration and validity of certificate
+An International Oil Pollution Prevention Certificate shall be issued for a period specified by the Administration, which shall not exceed five years.
+2.1 When the renewal survey is completed within 3 months before the expiry date of the existing certificate, the new certificate shall be valid from the date of completion of the renewal survey to a date not exceeding 5 years from the date of expiry of the existing certificate.
+2.2 When the renewal survey is completed after the expiry date of the existing certificate, the new certificate shall be valid from the date of completion of the renewal survey to a date not exceeding 5 years from the date of expiry of the existing certificate.
+2.3 When the renewal survey is completed more than 3 months before the expiry date of the existing certificate, the new certificate shall be valid from the date of completion of the renewal survey to a date not exceeding 5 years from the date of completion of the renewal survey.
+If a certificate is issued for a period of less than 5 years, the Administration may extend the validity of the certificate beyond the expiry date to the maximum period specified in paragraph 1 of this regulation.
+If a renewal survey has been completed and a new certificate cannot be issued or placed on board the ship before the expiry date of the existing certificate, the person or organization authorized by the Administration may endorse the existing certificate.
+If a ship at the time when a certificate expires is not in a port in which it is to be surveyed, the Administration may extend the period of validity of the certificate but this extension shall be granted only for the purpose of allowing the ship to complete its voyage to the port in which it is to be surveyed.
+A certificate issued to a ship engaged on short voyages which has not been extended may be extended by the Administration for a period of grace of up to one month.
+In special circumstances, a new certificate need not be dated from the date of expiry of the existing certificate.
+If an annual or intermediate survey is completed before the period specified in regulation 6 of this Annex, the anniversary date shown on the certificate shall be amended by endorsement.
+A certificate issued under regulation 7 or 8 of this Annex shall cease to be valid in any of the following cases:
+.1 If the relevant surveys are not completed within the periods specified.
+.2 If the certificate is not endorsed in accordance with regulation 6.1.3 or 6.1.4.
+.3 Upon transfer of the ship to the flag of another State.
+Regulation 11: Port State control on operational requirements
+A ship when in a port or an offshore terminal of another Party is subject to inspection concerning operational requirements under this Annex.
+In such cases, the Party shall ensure that the ship shall not sail until the situation is rectified.
+Procedures relating to the port State control prescribed in article 5 of the present Convention shall apply to this regulation.
+Nothing in this regulation shall limit the rights and obligations of a Party carrying out control over operational requirements.
+Regulation 12: Tanks for oil residues (sludge)
+This regulation applies to every ship of 400 gross tonnage and above except that paragraph 3.5 need only be applied as far as is reasonable and practicable to ships delivered on or before 31 December 1979.
+Oil residue (sludge) may be disposed of directly from the oil residue (sludge) tank(s) to reception facilities through the standard discharge connection or to any other approved means of disposal.
+Oil residue (sludge) tank(s) shall be provided and:
+.1 Shall be of adequate capacity to receive the oil residues (sludge) which cannot be dealt with otherwise.
+.2 Shall be provided with a designated pump for disposal of oil residue (sludge).
+.3 Shall have no discharge connections to the bilge system, oily bilge water holding tank(s), tank top or oily water separators, except that the tank(s) may be fitted with drains with manually operated self-closing valves.
+.4 Shall be designed and constructed to facilitate their cleaning and the discharge of residues to reception facilities.
+.5 Ships constructed before 1 January 2017 shall be arranged to comply with paragraph 3.3 not later than the first renewal survey carried out on or after 1 January 2017.
+Regulation 12A: Oil fuel tank protection
+This regulation applies to all ships with an aggregate oil fuel capacity of 600 m3 and above delivered on or after 1 August 2010.
+The application of this regulation in determining the location of tanks used to carry oil fuel does not govern over the provisions of regulation 19.
+Definitions:
+.1 Oil fuel means any oil used as fuel oil in connection with the propulsion and auxiliary machinery of the ship.
+.2 Load line draught (dS) is the vertical distance from the molded baseline at mid-length to the waterline corresponding to the summer freeboard draught.
+.3 Light ship draught is the molded draught amidships corresponding to the lightweight.
+.4 Partial load line draught (dP) is the light ship draught plus 60% of the difference between the light ship draught and the load line draught dS.
+.5 Waterline (dB) is the vertical distance from the molded baseline at mid-length to the waterline corresponding to 30% of the depth DS.
+.6 Breadth (BS) is the greatest molded breadth of the ship.
+.7 Breadth (BB) is the greatest molded breadth of the ship.
+.8 Depth (DS) is the molded depth measured at mid-length to the upper deck at side.
+.9 Length (L) means 96% of the total length on a waterline at 85% of the least molded depth.
+.10 Breadth (B) means the maximum breadth of the ship.
+.11 Oil fuel tank means a tank in which oil fuel is carried.
+.12 Small oil fuel tank is an oil fuel tank with a maximum individual capacity not greater than 30 m3.
+.13 C is the ship’s total volume of oil fuel.
+.14 Oil fuel capacity means the volume of a tank.
+The provisions of this regulation apply to all oil fuel tanks except small oil fuel tanks, provided that the aggregate capacity of such excluded tanks is not greater than 600 m3.
+Individual oil fuel tanks shall not have a capacity of over 2,500 m3.
+Oil fuel tanks shall be located above the molded line of the bottom shell plating nowhere less than the distance h.
+Oil fuel tanks shall be located inboard of the molded line of the side shell plating nowhere less than the distance w.
+Oil fuel tanks shall be located inboard of the molded line of the side shell plating nowhere less than the distance w.
+Lines of oil fuel piping located at a distance from the ship’s bottom of less than h shall be fitted with valves within or immediately adjacent to the oil fuel tank.
+Suction wells in oil fuel tanks may protrude into the double bottom below the boundary line defined by the distance h.
+Ships shall comply with the accidental oil fuel outflow performance standard.
+For the purpose of the application, the oil fuel level after damage shall be calculated as follows:
+hF = {(dP + tC - Zl)(ρS) }/ρn
+
+25 Questions and Answers Based on MARPOL.pdf
+Q: What is the main objective of MARPOL Annex I?
+A: To prevent pollution by oil from ships.
+
+Q: What is considered "oil" under MARPOL Annex I?
+A: Petroleum in any form including crude oil, fuel oil, sludge, oil refuse, and refined products.
+
+Q: What is a "clean ballast"?
+A: Ballast water that is free from oil contamination.
+
+Q: What does "segregated ballast" mean?
+A: Ballast water introduced into a tank completely separated from the cargo oil and oil fuel system.
+
+Q: What is the minimum capacity for oil residue (sludge) tanks on ships?
+A: The capacity must be adequate to receive all oil residues which cannot be dealt with otherwise.
+
+Q: What is the significance of the "nearest land" definition?
+A: It establishes the baseline from which the territorial sea is measured for MARPOL purposes.
+
+Q: How often must oil tankers of 150 gross tonnage and above be surveyed according to Regulation 6?
+A: Initially, then annually, and renewal surveys at intervals not exceeding 5 years.
+
+Q: What is required for a ship to be exempt from MARPOL regulations?
+A: Specific constructional features that make compliance unreasonable or impracticable.
+
+Q: What does an "International Oil Pollution Prevention Certificate" indicate?
+A: That the ship complies with the requirements of MARPOL Annex I.
+
+Q: When does a certificate cease to be valid under Regulation 10?
+A: If relevant surveys are not completed, the certificate is not endorsed, or upon transfer of the ship to another flag state.
+
+Q: What is the requirement for oily bilge water holding tanks on ships?
+A: They must collect oily bilge water prior to its discharge, transfer, or disposal.
+
+Q: What is the definition of "major conversion" of a ship?
+A: A conversion that substantially alters the ship's dimensions or carrying capacity.
+
+Q: What is the "audit" in the context of MARPOL?
+A: A systematic, independent process for evaluating compliance with MARPOL requirements.
+
+Q: What are "special areas" under MARPOL Annex I?
+A: Sea areas where special mandatory methods for preventing oil pollution are required.
+
+Q: What is the primary function of slop tanks on ships?
+A: To collect tank drainings, tank washings, and other oily mixtures.
+
+Q: What is a "product carrier"?
+A: An oil tanker engaged in carrying oil other than crude oil.
+
+Q: What constitutes "oily bilge water"?
+A: Water contaminated by oil from machinery spaces.
+
+Q: What is the "lightweight" of a ship?
+A: The displacement of a ship without cargo, fuel, and other consumables.
+
+Q: What are the key components required in the "initial survey" of a ship?
+A: A complete survey of the ship's structure, equipment, systems, fittings, arrangements, and materials.
+
+Q: What does Regulation 12A primarily address?
+A: Protection of oil fuel tanks on ships.
+
+Q: What is the meaning of "breadth (B)" in ship construction?
+A: The maximum breadth of the ship.
+
+Q: How is "deadweight (DW)" defined?
+A: The difference in tons between the displacement of a ship in water and its lightweight.
+
+Q: What is required for the disposal of oil residue (sludge)?
+A: Disposal directly to reception facilities or through an approved means like incinerators or auxiliary boilers.
+
+Q: What is an "audit scheme" under MARPOL?
+A: The IMO Member State Audit Scheme for ensuring compliance with MARPOL requirements.
+
+Q: How are "equivalents" managed under Regulation 5?
+A: The Administration may approve alternative fittings, materials, appliances, or apparatus if they are as effective as those required by MARPOL.
+
+These questions and answers are based on the information provided in the MARPOL document, summarizing key regulations and definitions.
+
+
+

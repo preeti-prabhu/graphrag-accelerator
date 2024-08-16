@@ -1,0 +1,754 @@
+AAPA Glossary of Maritime Terms
+https://www.aapa-ports.org/advocating/content.aspx?ItemNumber=21500
+
+ABS:
+The American Bureau of Shipping is a U.S. classification society that certifies if a ship is in compliance with standard rules of construction and maintenance.
+anchorage:
+Port charge relating to a vessel moored at approved anchorage site in a harbor.
+apron:
+The area immediately in front of or behind a wharf shed on which cargo is lifted. On the "front apron," cargo is unloaded from or loaded onto a ship. Behind the shed, cargo moves over the "rear apron" into and out of railroad cars.
+Backhaul:
+To haul a shipment back over part of a route which it has already traveled; a marine transportation carrier’s return movement of cargo, usually opposite from the direction of its primary cargo distribution.
+barge:
+A large, flat-bottomed boat used to carry cargo from a port to shallow-draft waterways. Barges have no locomotion and are pushed by towboats. A single, standard barge can hold 1,500 tons of cargo or as much as either 15 railroad cars or 60 trucks can carry. A barge is 200 feet long, 35 feet wide and has a draft of 9 feet. Barges carry dry bulk (grain, coal, lumber, gravel, etc.) and liquid bulk (petroleum, vegetable oils, molasses, etc.).
+berth:
+(verb) To bring a ship to a berth. (noun) The wharf space at which a ship docks. A wharf may have two or three berths, depending on the length of incoming ships.
+bill of lading:
+A contract between a shipper and carrier listing the terms for moving freight between specified points.
+Board of Commissioners:
+The members of the governing board of a port authority are called commissioners. Members of a Board of Commissioners can be elected or appointed and usually serve for several years.
+bollard:
+A line-securing device on a wharf around which mooring and berthing lines are fastened.
+bonded warehouse:
+A building designated by U.S. Customs authorities for storage of goods without payment of duties to Customs until goods are removed.
+Box:
+Slang term for a container.
+breakbulk cargo:
+Non-containerized general cargo stored in boxes, bales, pallets or other units to be loaded onto or discharged from ships or other forms of transportation. (See also:
+bulk
+and
+container
+.) Examples include iron, steel, machinery, linerboard and woodpulp.
+bulk cargo:
+Loose cargo (dry or liquid) that is loaded (shoveled, scooped, forked, mechanically conveyed or pumped) in volume directly into a ship’s hold; e.g., grain, coal and oil.
+bulkhead
+: A structure used to protect against shifting cargo and/or to separate the load.
+Buoys:
+Floats that warn of hazards such as rocks or shallow ground, to help ships maneuver through unfamiliar harbors.
+cabotage:
+Shipment of cargo between a nation’s ports is also called coastwise trade. The U.S. and some other countries require such trade to be carried on domestic ships only.
+capacity:
+The available space for, or ability to handle, freight.
+captive cargo port:
+When most of a port’s inbound cargoes are being shipped short distances and most of its export products come from nearby areas, the port is called a captive cargo port. (Contrast with a
+transit port
+.)
+cargo:
+The freight (goods, products) carried by a ship, barge, train, truck or plane.
+Carrier:
+An individual, partnership or corporation engaged in the business of transporting goods or passengers (See also:
+ocean carrier.
+)
+cartage:
+Originally the process of transporting by cart. Today, the term is used for trucking or trucking fees.
+chandlers:
+Like a hotel at sea, a ship needs many supplies to operate and serve its crew-- groceries; paper products; engine parts; electronics; hardware; etc. A chandler sells these supplies to the ship’s agent. Originally, chandlers (candle makers) provided illumination to ships. Over time they expanded the variety of products they could provide to ships.
+channels of distribution:
+The routes by which products are transported from origin to destination. This includes the physical routes, as well as the different companies involved in ultimately delivering the goods to buyers.
+checkers:
+See
+clerks
+.
+chock:
+A piece of wood or other material put next to cargo to prevent it from shifting.
+civil service:
+Some U.S., state, city and parish government jobs are protected under civil service systems which are designed to provide a degree of security to employees and to deter nepotism, political patronage and arbitrary treatment of workers.
+clerks:
+When cargo is unloaded from a ship, a clerk checks the actual count of the goods (number of boxes, drums, bundles, pipes, etc.) versus the amount listed on the ship’s manifest. He will note shortages, overages or damage. This is used to make claims if needed.
+common carrier:
+Trucking, railroad or barge lines that are licensed to transport goods or people nationwide are called common carriers.
+Conference rate:
+Rates arrived at by conference of carriers applicable to water transportation.
+consignment:
+A shipment of goods. The buyer of this shipment is called the
+consignee;
+the seller of the goods is called the
+consignor.
+Consolidated Freight Station or Container Freight Station (CFS)
+- Location on terminal grounds where stuffing and stripping of containers is conducted.
+consolidator:
+The person or firm that consolidates (combines) cargo from a number of shippers into a container that will deliver the goods to several buyers.
+container:
+A box made of aluminum, steel or fiberglass used to transport cargo by ship, rail, truck or barge. Common dimensions are 20' x 8’ x 8' (called a TEU or twenty-foot equivalent unit) or 40' x 8' x 8', called an FEU. Variations are collapsible containers, tank containers (for liquids) and "rag tops" (open-topped containers covered by a tarpaulin for cargo that sticks above the top of a closed box). In the container industry, containers are usually simply called boxes.
+container freight station:
+The facility for stuffing and stripping a container of its cargo, especially for movement by railroad.
+container chassis:
+A piece of equipment specifically designed for the movement of containers by highway to and from container terminals.
+container crane:
+Usually, a rail-mounted gantry crane located on a wharf for the purpose of loading and unloading containers on vessels.
+container terminal
+: A specialized facility where ocean container vessels dock to discharge and load containers, equipped with cranes with a safe lifting capacity of 35-40 tons, with booms having an outreach of up to 120 feet in order to reach the outside cells of vessels. Most such cranes operate on rail tracks and have articulating rail trucks on each of their four legs, enabling them to traverse along the terminal and work various bays on the vessel and for more than one crane to work a single vessel simultaneously. Most terminals have direct rail access and container storage areas, and are served by highway carriers.
+containerization:
+The technique of using a container to store, protect and handle cargo while it is in transit. This shipping method has both greatly expedited the speed at which cargo is moved from origin to destination and lowered shipping costs.
+Container on Flat Car (COFC)
+- A container placed directly on a railroad flatcar without chassis.
+contraband:
+Goods prohibited in trade (such as weapons going to Iran, anything to Cuba). Smuggled goods.
+Corps of Engineers:
+This department of the U. S. Army is responsible for flood protection and providing safe navigation channels. The Corps builds and maintains the levees, flood walls and spillways that keep major rivers out of low lying communities. The Corps is vital to keeping navigation channels open by dredging sand, silt and gravel that accumulate on river and harbor bottoms.
+craft:
+A boat, ship or airplane.
+customs:
+A duty or tax on imported goods. These fees are a major bonus to the economy. In 1999, for example, the U. S. Customs Department collected over
+$22 billion
+in fees nationally, which went into the U.S. Treasury. The Customs Department also works to prevent the importation of illegal drugs and contraband.
+customs broker:
+This person prepares the needed documentation for importing goods (just as a freight forwarder does for exports). The broker is licensed by the Treasury Department to clear goods through U.S. Customs. Performs duties related to documentation, cargo clearance, coordination of inland and ocean transportation, dockside inspection of cargo, etc. (Also known as a customhouse broker.)
+Dead Weight Tonnage (DWT)
+: Maximum weight of a vessel including the vessel, cargo and ballast.
+deadhead:
+When a truck returning from a delivery has no return freight on the back haul, it is said to be in deadhead.
+deck barge
+: Transports heavy or oversize cargoes mounted to its top deck instead of inside a hold. Machinery, appliances, project cargoes and even recreational vehicles move on deck barges.
+demurrage:
+A penalty fee assessed when cargo isn’t moved off a wharf before the free time allowance ends.
+dock:
+(verb) - To bring in a vessel to tie up at a wharf berth. (One parks a car, but docks a ship.) (noun) - A dock is a structure built along, or at an angle from, a navigable waterway so that vessels may lie alongside to receive or discharge cargo. Sometimes, the whole wharf is informally called a dock.
+dockage:
+A charge by a port authority for the length of water frontage used by a vessel tied up at a wharf.
+draft:
+The depth of a loaded vessel in the water taken from the level of the waterline to the lowest point of the hull of the vessel; depth of water, or distance between the bottom of the ship and waterline.
+drayage:
+Transport by truck for short distances; e.g. from wharf to warehouse..
+dredge:
+(noun) A waterborne machine that removes unwanted silt accumulations from the bottom of a waterway. (verb) The process of removing sediment from harbor or river bottoms for safety purposes and to allow for deeper vessels.
+dry bulk:
+Minerals or grains stored in loose piles moving without mark or count.
+Examples are potash, industrial sands, wheat, soybeans and peanuts.
+dunnage:
+Wood or other material used in stowing ship cargo to prevent its movement.
+duty:
+A government tax on imported merchandise.
+Electronic Data Interchange (EDI):
+The exchange of information through an electronic format. Electronic commerce has been under intensive development in the transportation industry to achieve a competitive advantage in international markets.
+elevator:
+A complex including storage facilities, computerized loading; inspection rooms and docks to load and unload dry bulk cargo such as grain or green coffee.
+export packers
+: Firms that securely pack export products into a container to crate to protect the cargo from damage during an ocean voyage.
+feeder service:
+Ocean transport system involving use of centralized ports to assemble and disseminate cargo to and from ports within a geographic area. Commodities are transported between major ports, then transferred to feeder vessels for further transport to a number of additional ports.
+fender piles:
+The wooden or plastic pilings on the outer edge of the wharf function like the fenders on a car. They are there to absorb the shock of a ship as it docks at the wharf and to protect the structural pilings that actually support the wharf. Fender piles are also called sacrifice piles since they are designed to be discarded after they are broken.
+fleeting:
+The area at which barges, towboats and tugs are berthed until needed. The operation of building or dismantling barge tows.
+Foreign Trade Zone (FTZ) -
+Known in some countries as a free zone, a foreign trade zone (FTZ) is a site within the USA (in or near a U.S. Customs port of entry) where foreign and domestic goods are held until they ready to be released into international commerce. If the final product is imported into the U.S., duties and taxes are not due until the goods are release into the U.S. market. Merchandise may enter a FTZ without a formal Customs entry or the payment of Customs duties or government excise taxes. In the zone, goods may be: stored; tested; sampled; repackaged or relabeled; cleaned; combined with other products; repaired or assembled, etc.
+freight:
+Merchandise hauled by transportation lines.
+freight forwarder:
+An individual or company that prepares the documentation and coordinates the movement and storage of export cargoes. See also Customs house broker.
+gantry crane:
+Track-mounted, shoreside crane utilized in the loading and unloading of breakbulk cargo, containers and heavy lift cargo.
+general cargo:
+Consists of both containerized and breakbulk goods, in contrast to bulk cargo. See: breakbulk, container, bulk, dry bulk). General cargo operations produce more jobs than bulk handling.
+Grain elevator:
+Facility at which bulk grain is unloaded, weighed, cleaned, blended and exported.
+gross tonnage:
+The sum of container, breakbulk and bulk tonnage.
+harbor
+: A port of haven where ships may anchor.
+heavy hauler:
+A truck equipped to transport unusually heavy cargoes (steel slabs, bulldozers, transformers, boats, heavy machinery, etc.)
+heavy lift
+: Very heavy cargoes that require specialized equipment to move the products to and from ship/truck/rail/barge and terminals. This "heavy lift" machinery may be installed aboard a ship designed just for such transport. Shore cranes, floating cranes and lift trucks may also adapted for such heavy lifts.
+Home port
+: Port from which a cruise ship loads passengers and begins its itinerary, and to which it returns to disembark passengers upon conclusion of voyage. Sometimes referred to as "embarkation port" and "turn around port."
+hopper car:
+A freight car used for handling dry bulks, with an openable top and one or more openings on the bottom through which the cargo is dumped.
+Hostler (or hustler):
+A tractor, usually unlicensed, for moving containers within a yard. An employees who drives a tractor for the purpose of moving cargo within a container yard.
+interchange:
+Point of entry/exit for trucks delivering and picking up containerized cargo. Point where pickups and deposits of containers in storage area or yard are assigned.
+I.L.A.
+- International Longshoremen’s Association, which operates on the East and Gulf Coasts. See
+labor unions
+and
+longshoremen
+.
+I.L.W.U.
+- International Longshore and Warehouse Union, which operates on the West Coast. See
+labor unions
+and
+longshoremen
+.
+intermodal shipment:
+When more than one mode of transportation is used to ship cargo from origin to destination, it is called intermodal transportation. For example, boxes of hot sauce from Louisiana are stuffed into metal boxes called containers at the factory. That container is put onto a truck chassis (or a railroad flat car) and moved to a port. There the container is lifted off the vehicle and lifted onto a ship. At the receiving port, the process is reversed. Intermodal transportation uses few laborers and speeds up the delivery time.
+IMX:
+This is transportation shorthand for intermodal exchange. In an IMX yard, containers can be lifted from truck chassis to rail intermodal cars or vice versa.
+ISO
+: International Organization for Standardization. Worldwide organization formed to promote development of standards to facilitate the international carriage and exchange of goods and services. Governs construction specifications for ISO containers.
+JIT
+: The abbreviation for "just in time," which is a way to minimize warehousing costs by having cargo shipped to arrive just in time for its use. This inventory control method depends on extremely reliable transportation.
+labor union:
+An organization of workers formed to serve members’ collective interests with regard to wages and working conditions. The maritime unions within ports can include locals of the larger union, such as the General Longshore Workers; Clerks and Checkers; Sack-sewers, Sweepers, Water boys and Coopers; Dock Loaders and Unloaders of Freight Cars and Barges; Dray Clerks, Weighers and Samplers; plus the Seafarer’s International Union; the National Maritime Union; the Marine Engineers’ Beneficial Association and the Teamsters. Some laborers don’t belong to a union.
+landlord port:
+At a landlord port, the port authority builds the wharves, which it then rents or leases to a terminal operator (usually a stevedoring company). The operator invests in cargo-handling equipment (forklifts, cranes, etc), hires longshore laborers to operate such lift machinery and negotiates contracts with ocean carriers (steamship services) to handle the unloading and loading of ship cargoes. (See also
+:
+operating port
+.)
+LASH:
+These 900-foot-long ships carry small barges inside the vessel. LASH stands for Lighter Aboard Ship. Just as cargo is transported by barge from the shallower parts of the Mississippi River to the Port of New Orleans for export aboard ocean-going ships, LASH barges are lifted into these unusual ships. Overseas, the ship can discharge clusters of barges in the open waters. Then several towboats will assemble the barges into tows bound for various ports and inland waterways, without the ship having to spend time traveling to each port.
+launch service:
+Companies that offer "water-taxi" service to ships at anchor.
+LCL:
+The acronym for "less than container load." It refers to a partial container load that is usually consolidated with other goods to fill a container.
+Length Overall (LOA)
+: Linear measurement of a vessel from bow to stern.
+Lift On-Lift Off (LO/LO):
+Cargo handling technique involving transfer of commodities to and from the ship using shoreside cranes or ship's gear.
+LTL:
+Means a shipment that is "less than truckload". Cargoes from different sources are usually consolidated to save costs.
+long ton
+: A long ton equals 2240 pounds.
+longshoremen:
+Dock workers who load and unload ships, or perform administrative tasks associated with the loading or unloading of cargo. They may or may not be members of labor unions. Longshore gangs are hired by stevedoring firms to work the ships. Longshoremen are also called stevedores.
+manifest:
+The ship captain’s list of individual goods that make up the ship’s cargo.
+marine surveyor:
+Person who inspects a ship hull or its cargo for damage or quality.
+master:
+The officer in charge of the ship. "Captain" is a courtesy title often given to a master.
+maritime:
+(adjective) Located on or near the sea. Commerce or navigation by sea. The maritime industry includes people working for transportation (ship, rail, truck and towboat/barge) companies, freight forwarders and customs brokers; stevedoring companies; labor unions; chandlers; warehouses; ship building and repair firms; importers/exporters; pilot associations, etc.
+marshaling yard:
+This is a container parking lot, or any open area where containers are stored in a precise order according to the ship loading plan. Containers terminals may use a grounded or wheeled layout. If the cargo box is placed directly on the ground, it is called a grounded operation. If the box is on a chassis/trailer, it is a wheeled operation.
+mean low water (MLW)
+: Lowest average level water reaches on an outgoing tide.
+mean high water (MHW):
+Highest average level water reaches on an outgoing tide.
+mooring dolphin:
+A cluster of pilings to which a boat or barge ties up.
+motor ship (MS) or motor vessel (MV)
+: A ship propelled by internal-combustion engines.
+NVOCC
+: A non-vessel-owning common carrier that buys space aboard a ship to get a lower volume rate. An NVOCC then sells that space to various small shippers, consolidates their freight, issues bills of lading and books space aboard a ship.
+neo-bulk cargo:
+Uniformly packaged goods, such as wood pulp bales, which stow as solidly as bulk, but are handled as general cargoes.
+ocean carrier:
+Diesel-fueled vessels have replaced the old steamships of the past, although many people still refer to modern diesel ships as steamships. Likewise, the person who represents the ship in port is still often called a steamship agent. (
+See:
+steamship agent)
+on-dock rail
+: Direct shipside rail service. Includes the ability to load and unload containers/breakbulk directly from rail car to vessel.
+on-terminal rail:
+Rail service and trackage provided by a railroad within a designated terminal area.
+operating port:
+At an operational port like Charleston, South Carolina, the port authority builds the wharves, owns the cranes and cargo-handling equipment and hires the labor to move cargo in the sheds and yards. A stevedore hires longshore labor to lift cargo between the ship and the dock, where the port’s laborers pick it up and bring it to the storage site. (See
+landlord port.
+)
+pallet:
+A short wooden, metal or plastic platform on which package cargo is placed, then handled by a forklift truck.
+Pier:
+A structure which just out into a waterway from the shore, for mooring vessels and cargo handling. Sometimes called a finger pier.
+Piggyback
+: A rail transport mode where a loaded truck trailer is shipped on a rail flatcar.
+pilot:
+A licensed navigational guide with thorough knowledge of a particular section of a waterway whose occupation is to steep ships along a coast or into and out of a harbor. Local pilots board the ship to advise the captain and navigator of local navigation conditions (difficult currents; hidden wrecks, etc.).
+port:
+This term is used both for the harbor area where ships are docked and for the agency (port authority), which administers use of public wharves and port properties.
+port-of-call
+: Port at which cruise ship makes a stop along its itinerary. Calls may range from five to 24 hours. Sometimes referred to as "transit port" and "destination port." (See also:
+home port
+)
+project cargo:
+The materials and equipment to assemble a special project overseas, such as a factory or highway.
+quay
+: A wharf, which parallels the waterline.
+railhead:
+End of the railroad line or point in the area of operations at which cargo is loaded and unloaded.
+railyard:
+A rail terminal at which occur traditional railroad activities for sorting and redistribution of railcars and cargo.
+reefer:
+A container with refrigeration for transporting frozen foods (meat, ice cream, fruit, etc.)
+refrigeration or reefer units:
+The protective cooling of perishable freight by ice, liquid nitrogen, or mechanical devices
+ro/ro:
+Short for roll on/roll/off . A ro/ro ship is designed with ramps that can be lowered to the dock so cars, buses, trucks or other vehicles can drive into the belly of the ship, rather than be lifted aboard. A ro/ro ship, like a container ship, has a quick turnaround time of about 12 hours.
+Rubber-Tired Gantry (RTG):
+Traveling crane used for the movement and positioning of containers in a container field. RTG's may also be used for loading and unloading containers from rail cars.
+sheddage:
+Regardless of the length of stay, a vessel is charged a one-time fee for use of shed space and/or marginal (waterside) rail track space. The charge is based on the length of a vessel.
+short ton:
+A short ton equals 2,000. Lifting capacity and cargo measurements are designated in short tons.
+Spreader
+: a device for lifting containers by their corner posts. The spreader bar on a container crane is telescopic to allow lifting various length containers.
+steamship:
+Today, ships that transport cargo overseas are powered by diesel fuel instead of steam. Many people still use the term "steamship," but the more modern term for the service is
+"ocean carrier"
+and for the ship itself,
+"motor vessel."
+steamship agent:
+The local representative who acts as a liaison among ship owners, local port authorities, terminals and supply/service companies. An agent handles all details for getting the ship into port; having it unloaded and loaded; inspected and out to sea quickly. An agent arranges for pilots; tug services; stevedores; inspections, etc., as well as, seeing that a ship is supplied with food, water, mail, medical services, etc. A steamship agency does not own the ship.
+steamship company:
+A business that owns ships that operate in international trade .
+steamship line:
+A steamship (ocean carrier) service running on a particular international route. Examples: NSCSA (National Shipping Company of Saudi Arabia), American President Lines (APL), Maersk Sealand, Evergreen, etc.
+stevedores:
+Labor management companies that provide equipment and hire workers to transfer cargo between ships and docks. Stevedore companies may also serve as terminal operators. The laborers hired by the stevedoring firms are called stevedores or longshoremen.
+straddle carrier
+: Container terminal equipment, which is motorized and runs on rubber tires. It can straddle a single row of containers and is primarily used to move containers around the terminal, but also to transport containers to and from the transtainer and load/unload containers from truck chassis.
+stripping
+: The process of removing cargo from a container.
+stuffing
+: The process of packing a container with loose cargo prior to inland or ocean shipment.
+Tank barges:
+Used for transporting bulk liquids, such as petroleum, chemicals, molasses, vegetable oils and liquefied gases.
+tariff:
+Schedule, system of duties imposed by a government on the import/export of goods; also, the charges, rates and rules of a transportation company as listed in published industry tables.
+terminal:
+The place where cargo is handled is called a terminal (or a wharf).
+terminal operator:
+The company that operates cargo handling activities on a wharf . A terminal operator oversees unloading cargo from ship to dock, checking the quantity of cargoes versus the ship’s manifest (list of goods), transferring of the cargo into the shed, checking documents authorizing a trucker to pick up cargo, overseeing the loading/unloading of railroad cars, etc.
+toplift
+: A piece of equipment similar to a forklift that lifts from above rather than below. Used to handle containers in the storage yard to and from storage stacks, trucks and railcars.
+towboat:
+A snub-nosed boat with push knees used for pushing barges. A small towboat (called a
+push boat
+) may push one or two barges around the harbor. A large towboat is used to push from 5 to 40 barges in a tow is called a
+line boat
+. From the Port of New Orleans, line boats deliver cargo to Mid-America via the 14,500-mile waterway system flowing through the Crescent City.
+(See also tug boat)
+tractor-trailer:
+Some trucks are a solid unit, such as a van, but many have three main units. The front section where the driver sits is called the cab or the tractor (because it pulls a load). Cargo is loaded into the metal box (container), which is loaded onto the wheel base called a chassis or a trailer. These big trucks are often also called 18-wheelers.
+Trailer On Flat Car (TOFC)
+: A container placed on a chassis that is in turn placed on a railroad car.
+tramp:
+A ship operating with no fixed route or published schedule
+.
+transit port:
+When the majority of cargoes moving through a port aren’t coming from or destined for the local market, the port is called a transit (or through) port.
+transit shed:
+The shed on a wharf is designed to protect cargoes from weather damage and is used only for short-term storage. Warehouses operated by private firms house goods for longer periods.
+transshipment:
+The unloading of cargo at a port or point where it is then reloaded, sometimes into another mode of transportation, for transfer to a final destination.
+Transtainer:
+A type of crane used in the handling of containers, which is motorized, mounted on rubber tires and can straddle at least four railway tracks, some up to six, with a lifting capacity of 35 tons for loading and unloading containers to and from railway cards.
+trucks:
+Heavy automotive vehicles used to transport cargo. In the maritime industry, cargo is often carried by tractor-trailers. The tractor is the front part of the vehicle, also called a cab. The trailer is the detachable wheeled chassis behind the tractor, on which containers or other cargoes are placed. (See:
+common carrier; heavy hauler; drayage
+)
+tugboat:
+Strong v-hull shaped boat used for maneuvering ships into and out of port and to carry supplies. A ship is too powerful to pull up to the wharf on its own. It cuts power and lets the tug nudge it in. Generally barges are pushed by
+towboats
+, not tugs.
+Twenty Foot Equivalent Unit (TEU):
+A unit of measurement equal to the space occupied by a standard twenty foot container. Used in stating the capacity of container vessel or storage area. One 40 ft. Container is equal to two TEU's.
+U. S. Army Corps of Engineers:
+See
+Corps of Engineers.
+U. S. Customs:
+See
+Customs
+.
+vessel:
+A ship or large boat.
+vessel operator:
+A firm that charters vessels for its service requirements, which are handled by their own offices or appointed agents at ports of call. Vessel operators also handle the operation of vessels on behalf of owners.
+warehouse:
+A place in which goods or merchandise is stored.
+way bill
+: The document used to identify the shipper and consignee, present the routing, describe the goods, present the applicable rate, show the weight of the shipment, and make other useful information notations.
+wharf:
+The place at which ships tie up to unload and load cargo. The wharf typically has front and rear loading docks (aprons), a transit shed, open (unshedded) storage areas, truck bays, and rail tracks.
+wharfage fee:
+A charge assessed by a pier or wharf owner for handling incoming or outgoing cargo.
+yard
+: a system of tracks within a certain area used for making up trains, storing cars, placing cars to be loaded or unloaded, etc.
+Glossary courtesy of
+: The Port of New Orleans
+www.pola.com
+,
+Georgia Ports Authority
+www.gaports.com
+,
+and the Port of Halifax
+www.portofhalifax.com
+.
+ABS:
+The American Bureau of Shipping is a U.S. classification society that certifies if a ship is in compliance with standard rules of construction and maintenance.
+anchorage:
+Port charge relating to a vessel moored at approved anchorage site in a harbor.
+apron:
+The area immediately in front of or behind a wharf shed on which cargo is lifted. On the "front apron," cargo is unloaded from or loaded onto a ship. Behind the shed, cargo moves over the "rear apron" into and out of railroad cars.
+Backhaul:
+To haul a shipment back over part of a route which it has already traveled; a marine transportation carrier’s return movement of cargo, usually opposite from the direction of its primary cargo distribution.
+barge:
+A large, flat-bottomed boat used to carry cargo from a port to shallow-draft waterways. Barges have no locomotion and are pushed by towboats. A single, standard barge can hold 1,500 tons of cargo or as much as either 15 railroad cars or 60 trucks can carry. A barge is 200 feet long, 35 feet wide and has a draft of 9 feet. Barges carry dry bulk (grain, coal, lumber, gravel, etc.) and liquid bulk (petroleum, vegetable oils, molasses, etc.).
+berth:
+(verb) To bring a ship to a berth. (noun) The wharf space at which a ship docks. A wharf may have two or three berths, depending on the length of incoming ships.
+bill of lading:
+A contract between a shipper and carrier listing the terms for moving freight between specified points.
+Board of Commissioners:
+The members of the governing board of a port authority are called commissioners. Members of a Board of Commissioners can be elected or appointed and usually serve for several years.
+bollard:
+A line-securing device on a wharf around which mooring and berthing lines are fastened.
+bonded warehouse:
+A building designated by U.S. Customs authorities for storage of goods without payment of duties to Customs until goods are removed.
+Box:
+Slang term for a container.
+breakbulk cargo:
+Non-containerized general cargo stored in boxes, bales, pallets or other units to be loaded onto or discharged from ships or other forms of transportation. (See also:
+bulk
+and
+container
+.) Examples include iron, steel, machinery, linerboard and woodpulp.
+bulk cargo:
+Loose cargo (dry or liquid) that is loaded (shoveled, scooped, forked, mechanically conveyed or pumped) in volume directly into a ship’s hold; e.g., grain, coal and oil.
+bulkhead
+: A structure used to protect against shifting cargo and/or to separate the load.
+Buoys:
+Floats that warn of hazards such as rocks or shallow ground, to help ships maneuver through unfamiliar harbors.
+cabotage:
+Shipment of cargo between a nation’s ports is also called coastwise trade. The U.S. and some other countries require such trade to be carried on domestic ships only.
+capacity:
+The available space for, or ability to handle, freight.
+captive cargo port:
+When most of a port’s inbound cargoes are being shipped short distances and most of its export products come from nearby areas, the port is called a captive cargo port. (Contrast with a
+transit port
+.)
+cargo:
+The freight (goods, products) carried by a ship, barge, train, truck or plane.
+Carrier:
+An individual, partnership or corporation engaged in the business of transporting goods or passengers (See also:
+ocean carrier.
+)
+cartage:
+Originally the process of transporting by cart. Today, the term is used for trucking or trucking fees.
+chandlers:
+Like a hotel at sea, a ship needs many supplies to operate and serve its crew-- groceries; paper products; engine parts; electronics; hardware; etc. A chandler sells these supplies to the ship’s agent. Originally, chandlers (candle makers) provided illumination to ships. Over time they expanded the variety of products they could provide to ships.
+channels of distribution:
+The routes by which products are transported from origin to destination. This includes the physical routes, as well as the different companies involved in ultimately delivering the goods to buyers.
+checkers:
+See
+clerks
+.
+chock:
+A piece of wood or other material put next to cargo to prevent it from shifting.
+civil service:
+Some U.S., state, city and parish government jobs are protected under civil service systems which are designed to provide a degree of security to employees and to deter nepotism, political patronage and arbitrary treatment of workers.
+clerks:
+When cargo is unloaded from a ship, a clerk checks the actual count of the goods (number of boxes, drums, bundles, pipes, etc.) versus the amount listed on the ship’s manifest. He will note shortages, overages or damage. This is used to make claims if needed.
+common carrier:
+Trucking, railroad or barge lines that are licensed to transport goods or people nationwide are called common carriers.
+Conference rate:
+Rates arrived at by conference of carriers applicable to water transportation.
+consignment:
+A shipment of goods. The buyer of this shipment is called the
+consignee;
+the seller of the goods is called the
+consignor.
+Consolidated Freight Station or Container Freight Station (CFS)
+- Location on terminal grounds where stuffing and stripping of containers is conducted.
+consolidator:
+The person or firm that consolidates (combines) cargo from a number of shippers into a container that will deliver the goods to several buyers.
+container:
+A box made of aluminum, steel or fiberglass used to transport cargo by ship, rail, truck or barge. Common dimensions are 20' x 8’ x 8' (called a TEU or twenty-foot equivalent unit) or 40' x 8' x 8', called an FEU. Variations are collapsible containers, tank containers (for liquids) and "rag tops" (open-topped containers covered by a tarpaulin for cargo that sticks above the top of a closed box). In the container industry, containers are usually simply called boxes.
+container freight station:
+The facility for stuffing and stripping a container of its cargo, especially for movement by railroad.
+container chassis:
+A piece of equipment specifically designed for the movement of containers by highway to and from container terminals.
+container crane:
+Usually, a rail-mounted gantry crane located on a wharf for the purpose of loading and unloading containers on vessels.
+container terminal
+: A specialized facility where ocean container vessels dock to discharge and load containers, equipped with cranes with a safe lifting capacity of 35-40 tons, with booms having an outreach of up to 120 feet in order to reach the outside cells of vessels. Most such cranes operate on rail tracks and have articulating rail trucks on each of their four legs, enabling them to traverse along the terminal and work various bays on the vessel and for more than one crane to work a single vessel simultaneously. Most terminals have direct rail access and container storage areas, and are served by highway carriers.
+containerization:
+The technique of using a container to store, protect and handle cargo while it is in transit. This shipping method has both greatly expedited the speed at which cargo is moved from origin to destination and lowered shipping costs.
+Container on Flat Car (COFC)
+- A container placed directly on a railroad flatcar without chassis.
+contraband:
+Goods prohibited in trade (such as weapons going to Iran, anything to Cuba). Smuggled goods.
+Corps of Engineers:
+This department of the U. S. Army is responsible for flood protection and providing safe navigation channels. The Corps builds and maintains the levees, flood walls and spillways that keep major rivers out of low lying communities. The Corps is vital to keeping navigation channels open by dredging sand, silt and gravel that accumulate on river and harbor bottoms.
+craft:
+A boat, ship or airplane.
+customs:
+A duty or tax on imported goods. These fees are a major bonus to the economy. In 1999, for example, the U. S. Customs Department collected over
+$22 billion
+in fees nationally, which went into the U.S. Treasury. The Customs Department also works to prevent the importation of illegal drugs and contraband.
+customs broker:
+This person prepares the needed documentation for importing goods (just as a freight forwarder does for exports). The broker is licensed by the Treasury Department to clear goods through U.S. Customs. Performs duties related to documentation, cargo clearance, coordination of inland and ocean transportation, dockside inspection of cargo, etc. (Also known as a customhouse broker.)
+Dead Weight Tonnage (DWT)
+: Maximum weight of a vessel including the vessel, cargo and ballast.
+deadhead:
+When a truck returning from a delivery has no return freight on the back haul, it is said to be in deadhead.
+deck barge
+: Transports heavy or oversize cargoes mounted to its top deck instead of inside a hold. Machinery, appliances, project cargoes and even recreational vehicles move on deck barges.
+demurrage:
+A penalty fee assessed when cargo isn’t moved off a wharf before the free time allowance ends.
+dock:
+(verb) - To bring in a vessel to tie up at a wharf berth. (One parks a car, but docks a ship.) (noun) - A dock is a structure built along, or at an angle from, a navigable waterway so that vessels may lie alongside to receive or discharge cargo. Sometimes, the whole wharf is informally called a dock.
+dockage:
+A charge by a port authority for the length of water frontage used by a vessel tied up at a wharf.
+draft:
+The depth of a loaded vessel in the water taken from the level of the waterline to the lowest point of the hull of the vessel; depth of water, or distance between the bottom of the ship and waterline.
+drayage:
+Transport by truck for short distances; e.g. from wharf to warehouse..
+dredge:
+(noun) A waterborne machine that removes unwanted silt accumulations from the bottom of a waterway. (verb) The process of removing sediment from harbor or river bottoms for safety purposes and to allow for deeper vessels.
+dry bulk:
+Minerals or grains stored in loose piles moving without mark or count.
+Examples are potash, industrial sands, wheat, soybeans and peanuts.
+dunnage:
+Wood or other material used in stowing ship cargo to prevent its movement.
+duty:
+A government tax on imported merchandise.
+Electronic Data Interchange (EDI):
+The exchange of information through an electronic format. Electronic commerce has been under intensive development in the transportation industry to achieve a competitive advantage in international markets.
+elevator:
+A complex including storage facilities, computerized loading; inspection rooms and docks to load and unload dry bulk cargo such as grain or green coffee.
+export packers
+: Firms that securely pack export products into a container to crate to protect the cargo from damage during an ocean voyage.
+feeder service:
+Ocean transport system involving use of centralized ports to assemble and disseminate cargo to and from ports within a geographic area. Commodities are transported between major ports, then transferred to feeder vessels for further transport to a number of additional ports.
+fender piles:
+The wooden or plastic pilings on the outer edge of the wharf function like the fenders on a car. They are there to absorb the shock of a ship as it docks at the wharf and to protect the structural pilings that actually support the wharf. Fender piles are also called sacrifice piles since they are designed to be discarded after they are broken.
+fleeting:
+The area at which barges, towboats and tugs are berthed until needed. The operation of building or dismantling barge tows.
+Foreign Trade Zone (FTZ) -
+Known in some countries as a free zone, a foreign trade zone (FTZ) is a site within the USA (in or near a U.S. Customs port of entry) where foreign and domestic goods are held until they ready to be released into international commerce. If the final product is imported into the U.S., duties and taxes are not due until the goods are release into the U.S. market. Merchandise may enter a FTZ without a formal Customs entry or the payment of Customs duties or government excise taxes. In the zone, goods may be: stored; tested; sampled; repackaged or relabeled; cleaned; combined with other products; repaired or assembled, etc.
+freight:
+Merchandise hauled by transportation lines.
+freight forwarder:
+An individual or company that prepares the documentation and coordinates the movement and storage of export cargoes. See also Customs house broker.
+gantry crane:
+Track-mounted, shoreside crane utilized in the loading and unloading of breakbulk cargo, containers and heavy lift cargo.
+general cargo:
+Consists of both containerized and breakbulk goods, in contrast to bulk cargo. See: breakbulk, container, bulk, dry bulk). General cargo operations produce more jobs than bulk handling.
+Grain elevator:
+Facility at which bulk grain is unloaded, weighed, cleaned, blended and exported.
+gross tonnage:
+The sum of container, breakbulk and bulk tonnage.
+harbor
+: A port of haven where ships may anchor.
+heavy hauler:
+A truck equipped to transport unusually heavy cargoes (steel slabs, bulldozers, transformers, boats, heavy machinery, etc.)
+heavy lift
+: Very heavy cargoes that require specialized equipment to move the products to and from ship/truck/rail/barge and terminals. This "heavy lift" machinery may be installed aboard a ship designed just for such transport. Shore cranes, floating cranes and lift trucks may also adapted for such heavy lifts.
+Home port
+: Port from which a cruise ship loads passengers and begins its itinerary, and to which it returns to disembark passengers upon conclusion of voyage. Sometimes referred to as "embarkation port" and "turn around port."
+hopper car:
+A freight car used for handling dry bulks, with an openable top and one or more openings on the bottom through which the cargo is dumped.
+Hostler (or hustler):
+A tractor, usually unlicensed, for moving containers within a yard. An employees who drives a tractor for the purpose of moving cargo within a container yard.
+interchange:
+Point of entry/exit for trucks delivering and picking up containerized cargo. Point where pickups and deposits of containers in storage area or yard are assigned.
+I.L.A.
+- International Longshoremen’s Association, which operates on the East and Gulf Coasts. See
+labor unions
+and
+longshoremen
+.
+I.L.W.U.
+- International Longshore and Warehouse Union, which operates on the West Coast. See
+labor unions
+and
+longshoremen
+.
+intermodal shipment:
+When more than one mode of transportation is used to ship cargo from origin to destination, it is called intermodal transportation. For example, boxes of hot sauce from Louisiana are stuffed into metal boxes called containers at the factory. That container is put onto a truck chassis (or a railroad flat car) and moved to a port. There the container is lifted off the vehicle and lifted onto a ship. At the receiving port, the process is reversed. Intermodal transportation uses few laborers and speeds up the delivery time.
+IMX:
+This is transportation shorthand for intermodal exchange. In an IMX yard, containers can be lifted from truck chassis to rail intermodal cars or vice versa.
+ISO
+: International Organization for Standardization. Worldwide organization formed to promote development of standards to facilitate the international carriage and exchange of goods and services. Governs construction specifications for ISO containers.
+JIT
+: The abbreviation for "just in time," which is a way to minimize warehousing costs by having cargo shipped to arrive just in time for its use. This inventory control method depends on extremely reliable transportation.
+labor union:
+An organization of workers formed to serve members’ collective interests with regard to wages and working conditions. The maritime unions within ports can include locals of the larger union, such as the General Longshore Workers; Clerks and Checkers; Sack-sewers, Sweepers, Water boys and Coopers; Dock Loaders and Unloaders of Freight Cars and Barges; Dray Clerks, Weighers and Samplers; plus the Seafarer’s International Union; the National Maritime Union; the Marine Engineers’ Beneficial Association and the Teamsters. Some laborers don’t belong to a union.
+landlord port:
+At a landlord port, the port authority builds the wharves, which it then rents or leases to a terminal operator (usually a stevedoring company). The operator invests in cargo-handling equipment (forklifts, cranes, etc), hires longshore laborers to operate such lift machinery and negotiates contracts with ocean carriers (steamship services) to handle the unloading and loading of ship cargoes. (See also
+:
+operating port
+.)
+LASH:
+These 900-foot-long ships carry small barges inside the vessel. LASH stands for Lighter Aboard Ship. Just as cargo is transported by barge from the shallower parts of the Mississippi River to the Port of New Orleans for export aboard ocean-going ships, LASH barges are lifted into these unusual ships. Overseas, the ship can discharge clusters of barges in the open waters. Then several towboats will assemble the barges into tows bound for various ports and inland waterways, without the ship having to spend time traveling to each port.
+launch service:
+Companies that offer "water-taxi" service to ships at anchor.
+LCL:
+The acronym for "less than container load." It refers to a partial container load that is usually consolidated with other goods to fill a container.
+Length Overall (LOA)
+: Linear measurement of a vessel from bow to stern.
+Lift On-Lift Off (LO/LO):
+Cargo handling technique involving transfer of commodities to and from the ship using shoreside cranes or ship's gear.
+LTL:
+Means a shipment that is "less than truckload". Cargoes from different sources are usually consolidated to save costs.
+long ton
+: A long ton equals 2240 pounds.
+longshoremen:
+Dock workers who load and unload ships, or perform administrative tasks associated with the loading or unloading of cargo. They may or may not be members of labor unions. Longshore gangs are hired by stevedoring firms to work the ships. Longshoremen are also called stevedores.
+manifest:
+The ship captain’s list of individual goods that make up the ship’s cargo.
+marine surveyor:
+Person who inspects a ship hull or its cargo for damage or quality.
+master:
+The officer in charge of the ship. "Captain" is a courtesy title often given to a master.
+maritime:
+(adjective) Located on or near the sea. Commerce or navigation by sea. The maritime industry includes people working for transportation (ship, rail, truck and towboat/barge) companies, freight forwarders and customs brokers; stevedoring companies; labor unions; chandlers; warehouses; ship building and repair firms; importers/exporters; pilot associations, etc.
+marshaling yard:
+This is a container parking lot, or any open area where containers are stored in a precise order according to the ship loading plan. Containers terminals may use a grounded or wheeled layout. If the cargo box is placed directly on the ground, it is called a grounded operation. If the box is on a chassis/trailer, it is a wheeled operation.
+mean low water (MLW)
+: Lowest average level water reaches on an outgoing tide.
+mean high water (MHW):
+Highest average level water reaches on an outgoing tide.
+mooring dolphin:
+A cluster of pilings to which a boat or barge ties up.
+motor ship (MS) or motor vessel (MV)
+: A ship propelled by internal-combustion engines.
+NVOCC
+: A non-vessel-owning common carrier that buys space aboard a ship to get a lower volume rate. An NVOCC then sells that space to various small shippers, consolidates their freight, issues bills of lading and books space aboard a ship.
+neo-bulk cargo:
+Uniformly packaged goods, such as wood pulp bales, which stow as solidly as bulk, but are handled as general cargoes.
+ocean carrier:
+Diesel-fueled vessels have replaced the old steamships of the past, although many people still refer to modern diesel ships as steamships. Likewise, the person who represents the ship in port is still often called a steamship agent. (
+See:
+steamship agent)
+on-dock rail
+: Direct shipside rail service. Includes the ability to load and unload containers/breakbulk directly from rail car to vessel.
+on-terminal rail:
+Rail service and trackage provided by a railroad within a designated terminal area.
+operating port:
+At an operational port like Charleston, South Carolina, the port authority builds the wharves, owns the cranes and cargo-handling equipment and hires the labor to move cargo in the sheds and yards. A stevedore hires longshore labor to lift cargo between the ship and the dock, where the port’s laborers pick it up and bring it to the storage site. (See
+landlord port.
+)
+pallet:
+A short wooden, metal or plastic platform on which package cargo is placed, then handled by a forklift truck.
+Pier:
+A structure which just out into a waterway from the shore, for mooring vessels and cargo handling. Sometimes called a finger pier.
+Piggyback
+: A rail transport mode where a loaded truck trailer is shipped on a rail flatcar.
+pilot:
+A licensed navigational guide with thorough knowledge of a particular section of a waterway whose occupation is to steep ships along a coast or into and out of a harbor. Local pilots board the ship to advise the captain and navigator of local navigation conditions (difficult currents; hidden wrecks, etc.).
+port:
+This term is used both for the harbor area where ships are docked and for the agency (port authority), which administers use of public wharves and port properties.
+port-of-call
+: Port at which cruise ship makes a stop along its itinerary. Calls may range from five to 24 hours. Sometimes referred to as "transit port" and "destination port." (See also:
+home port
+)
+project cargo:
+The materials and equipment to assemble a special project overseas, such as a factory or highway.
+quay
+: A wharf, which parallels the waterline.
+railhead:
+End of the railroad line or point in the area of operations at which cargo is loaded and unloaded.
+railyard:
+A rail terminal at which occur traditional railroad activities for sorting and redistribution of railcars and cargo.
+reefer:
+A container with refrigeration for transporting frozen foods (meat, ice cream, fruit, etc.)
+refrigeration or reefer units:
+The protective cooling of perishable freight by ice, liquid nitrogen, or mechanical devices
+ro/ro:
+Short for roll on/roll/off . A ro/ro ship is designed with ramps that can be lowered to the dock so cars, buses, trucks or other vehicles can drive into the belly of the ship, rather than be lifted aboard. A ro/ro ship, like a container ship, has a quick turnaround time of about 12 hours.
+Rubber-Tired Gantry (RTG):
+Traveling crane used for the movement and positioning of containers in a container field. RTG's may also be used for loading and unloading containers from rail cars.
+sheddage:
+Regardless of the length of stay, a vessel is charged a one-time fee for use of shed space and/or marginal (waterside) rail track space. The charge is based on the length of a vessel.
+short ton:
+A short ton equals 2,000. Lifting capacity and cargo measurements are designated in short tons.
+Spreader
+: a device for lifting containers by their corner posts. The spreader bar on a container crane is telescopic to allow lifting various length containers.
+steamship:
+Today, ships that transport cargo overseas are powered by diesel fuel instead of steam. Many people still use the term "steamship," but the more modern term for the service is
+"ocean carrier"
+and for the ship itself,
+"motor vessel."
+steamship agent:
+The local representative who acts as a liaison among ship owners, local port authorities, terminals and supply/service companies. An agent handles all details for getting the ship into port; having it unloaded and loaded; inspected and out to sea quickly. An agent arranges for pilots; tug services; stevedores; inspections, etc., as well as, seeing that a ship is supplied with food, water, mail, medical services, etc. A steamship agency does not own the ship.
+steamship company:
+A business that owns ships that operate in international trade .
+steamship line:
+A steamship (ocean carrier) service running on a particular international route. Examples: NSCSA (National Shipping Company of Saudi Arabia), American President Lines (APL), Maersk Sealand, Evergreen, etc.
+stevedores:
+Labor management companies that provide equipment and hire workers to transfer cargo between ships and docks. Stevedore companies may also serve as terminal operators. The laborers hired by the stevedoring firms are called stevedores or longshoremen.
+straddle carrier
+: Container terminal equipment, which is motorized and runs on rubber tires. It can straddle a single row of containers and is primarily used to move containers around the terminal, but also to transport containers to and from the transtainer and load/unload containers from truck chassis.
+stripping
+: The process of removing cargo from a container.
+stuffing
+: The process of packing a container with loose cargo prior to inland or ocean shipment.
+Tank barges:
+Used for transporting bulk liquids, such as petroleum, chemicals, molasses, vegetable oils and liquefied gases.
+tariff:
+Schedule, system of duties imposed by a government on the import/export of goods; also, the charges, rates and rules of a transportation company as listed in published industry tables.
+terminal:
+The place where cargo is handled is called a terminal (or a wharf).
+terminal operator:
+The company that operates cargo handling activities on a wharf . A terminal operator oversees unloading cargo from ship to dock, checking the quantity of cargoes versus the ship’s manifest (list of goods), transferring of the cargo into the shed, checking documents authorizing a trucker to pick up cargo, overseeing the loading/unloading of railroad cars, etc.
+toplift
+: A piece of equipment similar to a forklift that lifts from above rather than below. Used to handle containers in the storage yard to and from storage stacks, trucks and railcars.
+towboat:
+A snub-nosed boat with push knees used for pushing barges. A small towboat (called a
+push boat
+) may push one or two barges around the harbor. A large towboat is used to push from 5 to 40 barges in a tow is called a
+line boat
+. From the Port of New Orleans, line boats deliver cargo to Mid-America via the 14,500-mile waterway system flowing through the Crescent City.
+(See also tug boat)
+tractor-trailer:
+Some trucks are a solid unit, such as a van, but many have three main units. The front section where the driver sits is called the cab or the tractor (because it pulls a load). Cargo is loaded into the metal box (container), which is loaded onto the wheel base called a chassis or a trailer. These big trucks are often also called 18-wheelers.
+Trailer On Flat Car (TOFC)
+: A container placed on a chassis that is in turn placed on a railroad car.
+tramp:
+A ship operating with no fixed route or published schedule
+.
+transit port:
+When the majority of cargoes moving through a port aren’t coming from or destined for the local market, the port is called a transit (or through) port.
+transit shed:
+The shed on a wharf is designed to protect cargoes from weather damage and is used only for short-term storage. Warehouses operated by private firms house goods for longer periods.
+transshipment:
+The unloading of cargo at a port or point where it is then reloaded, sometimes into another mode of transportation, for transfer to a final destination.
+Transtainer:
+A type of crane used in the handling of containers, which is motorized, mounted on rubber tires and can straddle at least four railway tracks, some up to six, with a lifting capacity of 35 tons for loading and unloading containers to and from railway cards.
+trucks:
+Heavy automotive vehicles used to transport cargo. In the maritime industry, cargo is often carried by tractor-trailers. The tractor is the front part of the vehicle, also called a cab. The trailer is the detachable wheeled chassis behind the tractor, on which containers or other cargoes are placed. (See:
+common carrier; heavy hauler; drayage
+)
+tugboat:
+Strong v-hull shaped boat used for maneuvering ships into and out of port and to carry supplies. A ship is too powerful to pull up to the wharf on its own. It cuts power and lets the tug nudge it in. Generally barges are pushed by
+towboats
+, not tugs.
+Twenty Foot Equivalent Unit (TEU):
+A unit of measurement equal to the space occupied by a standard twenty foot container. Used in stating the capacity of container vessel or storage area. One 40 ft. Container is equal to two TEU's.
+U. S. Army Corps of Engineers:
+See
+Corps of Engineers.
+U. S. Customs:
+See
+Customs
+.
+vessel:
+A ship or large boat.
+vessel operator:
+A firm that charters vessels for its service requirements, which are handled by their own offices or appointed agents at ports of call. Vessel operators also handle the operation of vessels on behalf of owners.
+warehouse:
+A place in which goods or merchandise is stored.
+way bill
+: The document used to identify the shipper and consignee, present the routing, describe the goods, present the applicable rate, show the weight of the shipment, and make other useful information notations.
+wharf:
+The place at which ships tie up to unload and load cargo. The wharf typically has front and rear loading docks (aprons), a transit shed, open (unshedded) storage areas, truck bays, and rail tracks.
+wharfage fee:
+A charge assessed by a pier or wharf owner for handling incoming or outgoing cargo.
+yard
+: a system of tracks within a certain area used for making up trains, storing cars, placing cars to be loaded or unloaded, etc.
+Glossary courtesy of
+: The Port of New Orleans
+www.pola.com
+,
+Georgia Ports Authority
+www.gaports.com
+,
+and the Port of Halifax
+www.portofhalifax.com
+.
+Contact AAPA
+Advertise With AAPA
+Site Map
+Terms of Service and Privacy Policy
+Third-Party Ad Networks
